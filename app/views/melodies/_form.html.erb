@@ -1,0 +1,37 @@
+<%= form_for(melody) do |f| %>
+  <% if melody.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(melody.errors.count, "error") %> prohibited this melody from being saved:</h2>
+
+      <ul>
+      <% melody.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :mtitle %>
+    <%= f.text_field :mtitle %>
+  </div>
+
+  <div class="field">
+    <%= f.label :msinop %>
+    <%= f.text_area :msinop %>
+  </div>
+
+  <div class="field">
+    <%= f.label :msmall %>
+    <%= f.text_area :msmall %>
+  </div>
+
+  <div class="field">
+    <%= f.label :mmedium %>
+    <%= f.text_area :mmedium %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

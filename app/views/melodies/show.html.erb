@@ -1,0 +1,73 @@
+<p id="notice"><%= notice %></p>
+
+
+<div class="container">
+  <div class="header">
+    <h3>
+      <%= @melody.mtitle %>
+    </h3>
+  </div>
+<br>
+
+  <div class="row">
+    <div class="col-md-2">
+      <% if @melody.mimages.blank? %>
+        <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
+      <% else %>
+        <% @mimages.each do |image| %>
+          <%= image_tag image.url, class: "img-thumbnail", size: "200x200" %>
+        <% end %>
+      <% end %>
+      <br>
+      <br>
+      <%= social_share_button_tag(@melody.mtitle) %>
+    </div>
+
+    <div class="col-md-10">
+      <div class="panel panel-default">
+        <div class="panel-heading">Basic Information</div>
+        <div class="panel-body">
+          <%= @melody.msinop %>
+        </div>
+      </div>
+
+      <div class="panel panel-info">
+        <div class="panel-heading">
+        <h3 class="panel-title">Guide</h3>
+      </div>
+        <div class="panel-body">
+          <br>
+            <p>Link Download Sesuai Urutan dari Sumbernya. Terima Kasih Karena Sudah Mendownload Disini. Jangan Lupa di Share yah ^^</p>
+            <!-- <br> -->
+            <!-- <p>Elsfile | Google Drive | DataFile | ZippyShare | Mirror</p> -->
+            <br>
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+    <div class="panel-heading">
+        <h3 class="panel-title">Small Size Link</h3>
+    </div>
+      <div class="panel-body">
+        <%= auto_link(@melody.msmall, :html => { :target => '_blank' }) %>
+      </div>
+    </div>
+
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h3 class="panel-title">Medium Size Link</h3>
+      </div>
+      <div class="panel-body">
+        <%= auto_link(@melody.mmedium, :html => { :target => '_blank' }) %>
+      </div>
+    </div>
+
+    </div>
+    </div>
+    <%= render 'disqus' %>
+  </div>
+</div>
+<!--
+<%= link_to 'Edit', edit_melody_path(@melody) %> |
+<%= link_to 'Back', melodies_path %> -->
+<br>

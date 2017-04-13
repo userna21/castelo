@@ -1,0 +1,37 @@
+<%= form_for(oploverz) do |f| %>
+  <% if oploverz.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(oploverz.errors.count, "error") %> prohibited this oploverz from being saved:</h2>
+
+      <ul>
+      <% oploverz.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field">
+    <%= f.label :sinops %>
+    <%= f.text_area :sinops %>
+  </div>
+
+  <div class="field">
+    <%= f.label :small %>
+    <%= f.text_area :small %>
+  </div>
+
+  <div class="field">
+    <%= f.label :medium %>
+    <%= f.text_area :medium %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

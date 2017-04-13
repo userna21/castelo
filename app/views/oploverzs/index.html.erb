@@ -1,0 +1,57 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <h1>Oploverz</h1>
+
+  <div class="row">
+    <div class="col-md-9">
+      <table class="table table-hover table-condensed">
+        <thead>
+          <tr>
+            <th>Preview</th>
+            <th>Title</th>
+            <th>Sinopsis</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <% @oploverzs.each do |oploverz| %>
+            <tr>
+              <td>
+                <% if oploverz.oimages.empty? %>
+                <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
+                <% else %>
+                  <%= image_tag oploverz.oimages.first.url, class: "img-thumbnail", size: "300x300" %>
+                  <% end %>
+              </td>
+              <td>
+              <%= link_to oploverz.title, oploverz %> <br>
+              <%= time_ago_in_words(oploverz.created_at) %> ago
+              </td>
+              <td><%= truncate(oploverz.sinops, length: 100) %></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+
+      <%= will_paginate @oploverzs, renderer: BootstrapPagination::Rails %>
+
+      <br>
+
+       <!-- link_to 'New Oploverz', new_oploverz_path -->
+    </div>
+
+    <div class="col-md-3">
+      <div class="facebook">
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Faragoto.net%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=194209290600422" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <br>
+      <div class="twitter">
+        <a href="https://twitter.com/animesatu" class="twitter-follow-button" data-show-count="false">Follow @animeloop_in</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <div class="chatango">
+        <%= render 'chatango' %>
+      </div>
+    </div>
+  </div>
+</div>

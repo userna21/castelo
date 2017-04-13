@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  sinop: MyText
+  asmall: MyText
+  amedium: MyText
+
+two:
+  title: MyString
+  sinop: MyText
+  asmall: MyText
+  amedium: MyText

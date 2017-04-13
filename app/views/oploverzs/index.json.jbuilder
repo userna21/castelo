@@ -1,0 +1,1 @@
+json.array! @oploverzs, partial: 'oploverzs/oploverz', as: :oploverz

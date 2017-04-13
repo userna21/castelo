@@ -1,0 +1,37 @@
+<%= form_for(awsub) do |f| %>
+  <% if awsub.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(awsub.errors.count, "error") %> prohibited this awsub from being saved:</h2>
+
+      <ul>
+      <% awsub.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field">
+    <%= f.label :sinop %>
+    <%= f.text_area :sinop %>
+  </div>
+
+  <div class="field">
+    <%= f.label :asmall %>
+    <%= f.text_area :asmall %>
+  </div>
+
+  <div class="field">
+    <%= f.label :amedium %>
+    <%= f.text_area :amedium %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

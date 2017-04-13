@@ -1,0 +1,55 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <h1>Awsubs</h1>
+  <div class="row">
+    <div class="col-md-9">
+      <table class="table table-hover table-condensed">
+        <thead>
+          <tr>
+            <th>Preview</th>
+            <th>Title</th>
+            <th>Sinopsis</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @awsubs.each do |awsub| %>
+            <tr>
+              <td>
+                <% if awsub.aimages.empty? %>
+                <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
+                <% else %>
+                  <%= image_tag awsub.aimages.first.url, class: "img-thumbnail", size: "300x300" %>
+                  <% end %>
+              </td>
+              <td>
+                <%= link_to awsub.title, awsub %> <br>
+                <%= time_ago_in_words(awsub.created_at) %> ago
+              </td>
+              <td><%= truncate(awsub.sinop, length: 100) %></td>
+              <!-- <td><%= link_to 'Edit', edit_awsub_path(awsub) %></td>
+              <td><%= link_to 'Destroy', awsub, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+      <%= will_paginate @awsubs, renderer: BootstrapPagination::Rails %>
+      <br>
+    </div>
+
+    <div class="col-md-3">
+      <div class="facebook">
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Faragoto.net%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=194209290600422" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+      </div>
+      <br>
+      <div class="twitter">
+        <a href="https://twitter.com/animesatu" class="twitter-follow-button" data-show-count="false">Follow @animeloop_in</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <div class="chatango">
+        <%= render 'chatango' %>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <%= link_to 'New Awsub', new_awsub_path %> -->
