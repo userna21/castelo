@@ -1,0 +1,42 @@
+<%= form_for(same) do |f| %>
+  <% if same.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(same.errors.count, "error") %> prohibited this same from being saved:</h2>
+
+      <ul>
+      <% same.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field">
+    <%= f.label :lsmall1 %>
+    <%= f.text_area :lsmall1 %>
+  </div>
+
+  <div class="field">
+    <%= f.label :lsmall2 %>
+    <%= f.text_area :lsmall2 %>
+  </div>
+
+  <div class="field">
+    <%= f.label :lmedium1 %>
+    <%= f.text_area :lmedium1 %>
+  </div>
+
+  <div class="field">
+    <%= f.label :lmedium2 %>
+    <%= f.text_area :lmedium2 %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

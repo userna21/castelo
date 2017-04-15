@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
 <div class="container">
-  <h1>Awsubs</h1>
+  <h1>Tonansub</h1>
   <div class="row">
     <div class="col-md-9">
       <table class="table table-hover table-condensed">
@@ -9,31 +9,32 @@
           <tr>
             <th>Preview</th>
             <th>Title</th>
-            <th>Sinopsis</th>
+            <th>Sinop</th>
           </tr>
         </thead>
+
         <tbody>
-          <% @awsubs.each do |awsub| %>
+          <% @tonans.each do |tonan| %>
             <tr>
               <td>
-                <% if awsub.aimages.empty? %>
+                <% if tonan.timages.empty? %>
                 <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
                 <% else %>
-                  <%= image_tag awsub.aimages.first.url, class: "img-thumbnail", size: "300x300" %>
+                  <%= image_tag tonan.timages.first.url, class: "img-thumbnail", size: "300x300" %>
                   <% end %>
               </td>
-              <td>
-                <%= link_to awsub.title, awsub %> <br>
-                <%= time_ago_in_words(awsub.created_at) %> ago
+              <td><%= link_to tonan.title, tonan %><br>
+                  <%= time_ago_in_words(tonan.created_at) %> ago
               </td>
-              <td><%= truncate(awsub.sinop, length: 100) %></td>
-              <!-- <td><%= link_to 'Edit', edit_awsub_path(awsub) %></td>
-              <td><%= link_to 'Destroy', awsub, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
-            </tr>
+              <td><%= truncate(tonan.sinop, length: 100) %></td>
+              <!-- <td><%= link_to 'Show', tonan %></td>
+              <td><%= link_to 'Edit', edit_tonan_path(tonan) %></td>
+              <td><%= link_to 'Destroy', tonan, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+            </tr> -->
           <% end %>
         </tbody>
       </table>
-      <%= will_paginate @awsubs, renderer: BootstrapPagination::Rails %>
+      <%= will_paginate @tonan, renderer: BootstrapPagination::Rails %>
       <br>
     </div>
 
@@ -49,9 +50,9 @@
         <%= render 'chatango' %>
       </div>
     </div>
+    </div>
   </div>
-</div>
 
-<br>
 
-<!-- <%= link_to 'New Awsub', new_awsub_path %> -->
+
+<!-- <%= link_to 'New Tonan', new_tonan_path %> -->

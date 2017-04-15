@@ -1,0 +1,89 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <div class="header">
+    <h1> <%= @same.title %> </h1>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-md-3">
+    <% if @same.limages.blank? %>
+      <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail", size: "300x300" %>
+    <% else %>
+      <% @limages.each do |image| %>
+        <%= image_tag image.url, class: "img-thumbnail", size: "300x300" %>
+      <% end %>
+    <% end %>
+    <br>
+    <br>
+    <%= social_share_button_tag(@same.title) %>
+  </div>
+
+
+  <div class="col-md-9">
+    <div class="panel panel-default">
+      <div class="panel-heading">Basic Information</div>
+      <div class="panel-body">
+        <strong> Jangan Lupa di Share donk ^_^V </strong>
+      </div>
+    </div>
+
+    <div class="panel panel-info">
+      <div class="panel-heading">
+      <h3 class="panel-title">Guide</h3>
+    </div>
+      <div class="panel-body">
+        <br>
+          <p>Link Download Sesuai Urutan dari Sumbernya.</p>
+          <p>dimulai dari 480MKV - 720MKV sampai 480 MP4 - 720 MP4</p>
+          <p>Terima Kasih Karena Sudah Mendownload Disini</p>
+          <br>
+      </div>
+  </div>
+
+  <div class="panel panel-success">
+  <div class="panel-heading">
+      <h3 class="panel-title">480 MKV :</h3>
+  </div>
+    <div class="panel-body">
+      <%= auto_link(@same.lsmall1, :html => { :target => '_blank' }) %>
+    </div>
+  </div>
+  <br>
+
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <h3 class="panel-title">720 MKV</h3>
+    </div>
+    <div class="panel-body">
+      <%= auto_link(@same.lsmall2, :html => { :target => '_blank' }) %>
+    </div>
+  </div>
+  <br>
+
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <h3 class="panel-title">480 MP4</h3>
+    </div>
+    <div class="panel-body">
+      <%= auto_link(@same.lmedium1, :html => { :target => '_blank' }) %>
+    </div>
+  </div>
+  <br>
+
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <h3 class="panel-title">720 MP4</h3>
+    </div>
+    <div class="panel-body">
+      <%= auto_link(@same.lmedium2, :html => { :target => '_blank' }) %>
+    </div>
+  </div>
+  <br>
+
+  </div>
+  <%= render 'disqus' %>
+</div>
+<!-- <%= link_to 'Edit', edit_same_path(@same) %> |
+<%= link_to 'Back', sames_path %> -->

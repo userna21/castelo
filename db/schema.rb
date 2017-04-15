@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170413152534) do
+ActiveRecord::Schema.define(version: 20170415164035) do
 
   create_table "aimages", force: :cascade do |t|
     t.text     "url"
@@ -27,6 +27,14 @@ ActiveRecord::Schema.define(version: 20170413152534) do
     t.text     "amedium"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "limages", force: :cascade do |t|
+    t.text     "url"
+    t.integer  "same_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["same_id"], name: "index_limages_on_same_id"
   end
 
   create_table "melodies", force: :cascade do |t|
@@ -62,6 +70,33 @@ ActiveRecord::Schema.define(version: 20170413152534) do
     t.datetime "created_at",              null: false
     t.datetime "updated_at",              null: false
     t.integer  "visit_count", default: 0, null: false
+  end
+
+  create_table "sames", force: :cascade do |t|
+    t.string   "title"
+    t.text     "lsmall1"
+    t.text     "lsmall2"
+    t.text     "lmedium1"
+    t.text     "lmedium2"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "timages", force: :cascade do |t|
+    t.text     "url"
+    t.integer  "tonan_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["tonan_id"], name: "index_timages_on_tonan_id"
+  end
+
+  create_table "tonans", force: :cascade do |t|
+    t.string   "title"
+    t.text     "sinop"
+    t.text     "small"
+    t.text     "medium"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "users", force: :cascade do |t|

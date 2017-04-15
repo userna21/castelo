@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :sames
+  resources :tonans
   resources :melodies
   resources :awsubs
   get 'about' => 'pages#about'

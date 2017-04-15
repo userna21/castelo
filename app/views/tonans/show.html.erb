@@ -1,31 +1,38 @@
 <p id="notice"><%= notice %></p>
 
+
 <div class="container">
   <div class="header">
     <h3>
-      <%= @awsub.title %>
+      <%= @tonan.title %>
     </h3>
   </div>
 <br>
+
   <div class="row">
     <div class="col-md-2">
-      <% if @awsub.aimages.blank? %>
+      <% if @tonan.timages.blank? %>
         <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
       <% else %>
-        <% @aimages.each do |image| %>
+        <% @timages.each do |image| %>
           <%= image_tag image.url, class: "img-thumbnail", size: "200x200" %>
         <% end %>
       <% end %>
       <br>
       <br>
-      <%= social_share_button_tag(@awsub.title) %>
+      <%= social_share_button_tag(@tonan.title) %>
     </div>
 
     <div class="col-md-10">
+
       <div class="panel panel-default">
         <div class="panel-heading">Basic Information</div>
         <div class="panel-body">
-          <%= @awsub.sinop %>
+          <% if @tonan.sinop.blank? %>
+            <h2>Tidak ada sinopsis</h2>
+          <% else %>
+            <%= @tonan.sinop %>
+            <% end %>
         </div>
       </div>
 
@@ -47,7 +54,7 @@
         <h3 class="panel-title">Small Size Link</h3>
     </div>
       <div class="panel-body">
-        <%= auto_link(@awsub.asmall, :html => { :target => '_blank' }) %>
+        <%= auto_link(@tonan.small, :html => { :target => '_blank' }) %>
       </div>
     </div>
     <br>
@@ -57,7 +64,7 @@
         <h3 class="panel-title">Medium Size Link</h3>
       </div>
       <div class="panel-body">
-        <%= auto_link(@awsub.amedium, :html => { :target => '_blank' }) %>
+        <%= auto_link(@tonan.medium, :html => { :target => '_blank' }) %>
       </div>
     </div>
 
@@ -65,8 +72,7 @@
   </div>
   <%= render 'disqus' %>
 </div>
-
-<!-- <%= link_to 'Edit', edit_awsub_path(@awsub) %> |
-<%= link_to 'Back', awsubs_path %> -->
-
 <br>
+<!--
+<%= link_to 'Edit', edit_tonan_path(@tonan) %> |
+<%= link_to 'Back', tonans_path %> -->
