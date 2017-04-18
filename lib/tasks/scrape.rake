@@ -4,11 +4,12 @@ namespace :scrape do
 
     require 'nokogiri'
     require 'open-uri'
+    require "byebug"
     require 'rinku'
     require 'rails_autolink'
 
 
-    urltext = 'http://oploverz.in/page/1'
+    urltext = 'http://oploverz.in/'
 
     links = []
     oimages = []
@@ -100,7 +101,7 @@ namespace :scrape do
     end
   end
 
-  desc "Delete all data"
+  desc "Delete oploverz data"
   task destroy_all: :environment do
     Oploverz.destroy_all
   end
