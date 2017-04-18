@@ -1,0 +1,11 @@
+<form class="form-inline">
+  <div class="input-group">
+    <%= form_tag sames_path, :method => :get do %>
+    <%= text_field_tag :q, "", class: "form-control", size: "90" , placeholder: "Search" %>
+      <div class="input-group-btn">
+          <%= button_tag "", :name => nil, class: "btn btn-primary glyphicon glyphicon-search", type: "submit" %>
+      </div>
+      <% end %>
+    </div>
+</form>
+<br>

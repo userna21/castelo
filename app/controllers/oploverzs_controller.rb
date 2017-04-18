@@ -4,8 +4,11 @@ class OploverzsController < ApplicationController
   # GET /oploverzs
   # GET /oploverzs.json
   def index
-    @oploverzs = Oploverz.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
-
+    if params[:q].present?
+      @oploverzs = OpSearcher.new.call(params).oploverzs
+    else
+      @oploverzs = Oploverz.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 7)
+    end
   end
 
   # GET /oploverzs/1

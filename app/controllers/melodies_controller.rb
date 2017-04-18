@@ -4,7 +4,11 @@ class MelodiesController < ApplicationController
   # GET /melodies
   # GET /melodies.json
   def index
-    @melodies = Melody.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
+    if params[:q].present?
+      @melodies = MeloSearcher.new.call(params).melodies
+    else
+      @melodies = Melody.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
+    end
   end
 
   # GET /melodies/1

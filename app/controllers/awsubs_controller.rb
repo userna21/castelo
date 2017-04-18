@@ -4,7 +4,11 @@ class AwsubsController < ApplicationController
   # GET /awsubs
   # GET /awsubs.json
   def index
-    @awsubs = Awsub.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
+    if params[:q].present?
+      @awsubs = AwSearcher.new.call(params).awsubs
+    else
+      @awsubs = Awsub.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
+    end
   end
 
   # GET /awsubs/1

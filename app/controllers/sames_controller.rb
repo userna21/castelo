@@ -4,7 +4,11 @@ class SamesController < ApplicationController
   # GET /sames
   # GET /sames.json
   def index
-    @sames = Same.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
+    if params[:q].present?
+      @sames = SameSearcher.new.call(params).sames
+    else
+      @sames = Same.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
+    end
   end
 
   # GET /sames/1
