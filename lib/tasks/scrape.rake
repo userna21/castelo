@@ -4,7 +4,6 @@ namespace :scrape do
 
     require 'nokogiri'
     require 'open-uri'
-    require "byebug"
     require 'rinku'
     require 'rails_autolink'
 
@@ -110,7 +109,6 @@ namespace :scrape do
   task awsubs: :environment do
     require 'nokogiri'
     require 'open-uri'
-    require 'byebug'
     require 'rinku'
     require 'rails_autolink'
 
@@ -216,7 +214,6 @@ namespace :scrape do
   task melody: :environment do
     require "nokogiri"
     require "open-uri"
-    require "byebug"
     require 'rinku'
     require 'rails_autolink'
 
@@ -320,7 +317,6 @@ namespace :scrape do
 
     require "nokogiri"
     require "open-uri"
-    require "byebug"
     require 'rinku'
     require 'rails_autolink'
 
@@ -424,7 +420,6 @@ namespace :scrape do
 
     require "nokogiri"
     require "open-uri"
-    require "byebug"
     require 'rinku'
     require 'rails_autolink'
 
