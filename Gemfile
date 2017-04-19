@@ -31,6 +31,7 @@ gem 'rails_autolink'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 gem 'sunspot_rails'
 gem 'progress_bar'
+gem 'sunspot_solr', group: :production
 
 
 # Use jquery as the JavaScript library
