@@ -3,7 +3,7 @@ class Oploverz < ApplicationRecord
   validates :title, presence: true
   has_many :oimages, dependent: :destroy
 
-  searchable do
-    text :title
-  end
+  # searchable do
+  #   text :title
+  # end
 end

@@ -29,8 +29,8 @@ gem 'rails_12factor', group: :production
 gem 'rinku'
 gem 'rails_autolink'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
-gem 'sunspot_rails'
-gem 'progress_bar'
+gem 'sunspot_rails', group: :development
+gem 'progress_bar', group: :development
 gem 'sunspot_solr', group: :production
 
 

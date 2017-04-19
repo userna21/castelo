@@ -4,11 +4,11 @@ class TonansController < ApplicationController
   # GET /tonans
   # GET /tonans.json
   def index
-    if params[:q].present?
-      @tonans = TonanSearcher.new.call(params).tonans
-    else
+    # if params[:q].present?
+    #   @tonans = TonanSearcher.new.call(params).tonans
+    # else
       @tonans = Tonan.all.order("created_at DESC").paginate(:page => params[:page], :per_page => 10)
-    end
+    # end
   end
 
   # GET /tonans/1

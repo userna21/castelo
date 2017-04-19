@@ -3,7 +3,7 @@ class Same < ApplicationRecord
   validates :title, presence: true
   has_many :limages, dependent: :destroy
 
-  searchable do
-    text :title
-  end
+  # searchable do
+  #   text :title
+  # end
 end

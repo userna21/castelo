@@ -3,7 +3,7 @@ class Awsub < ApplicationRecord
   validates :title,  presence: true
   has_many :aimages, dependent: :destroy
 
-  searchable do
-    text :title
-  end
+  # searchable do
+  #   text :title
+  # end
 end

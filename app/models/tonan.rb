@@ -3,7 +3,7 @@ class Tonan < ApplicationRecord
   validates :title, presence: true
   has_many :timages, dependent: :destroy
 
-  searchable do
-    text :title
-  end
+  # searchable do
+  #   text :title
+  # end
 end

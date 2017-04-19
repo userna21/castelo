@@ -3,7 +3,7 @@ class Melody < ApplicationRecord
   validates :mtitle, presence: true
   has_many :mimages, dependent: :destroy
 
-  searchable do
-    text :mtitle
-  end
+  # searchable do
+  #   text :mtitle
+  # end
 end
