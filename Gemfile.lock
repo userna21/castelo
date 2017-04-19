@@ -88,6 +88,7 @@ GEM
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
     options (2.3.2)
+    pg (0.20.0)
     pr_geohash (1.0.0)
     progress_bar (1.1.0)
       highline (~> 1.6)
@@ -113,8 +114,13 @@ GEM
       nokogiri (~> 1.6)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
+    rails_12factor (0.0.3)
+      rails_serve_static_assets
+      rails_stdout_logging
     rails_autolink (1.1.6)
       rails (> 3.1)
+    rails_serve_static_assets (0.0.5)
+    rails_stdout_logging (0.0.5)
     railties (5.0.2)
       actionpack (= 5.0.2)
       activesupport (= 5.0.2)
@@ -192,9 +198,11 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+  pg
   progress_bar
   puma (~> 3.0)
   rails (~> 5.0.1)
+  rails_12factor
   rails_autolink
   rinku
   sass-rails (~> 5.0)
@@ -210,6 +218,9 @@ DEPENDENCIES
   web-console (>= 3.3.0)
   will_paginate (~> 3.1.0)
   will_paginate-bootstrap
+
+RUBY VERSION
+   ruby 2.3.0p0
 
 BUNDLED WITH
    1.13.7
