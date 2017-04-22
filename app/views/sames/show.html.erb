@@ -47,7 +47,11 @@
       <h3 class="panel-title">480 MKV :</h3>
   </div>
     <div class="panel-body">
-      <%= auto_link(@same.lsmall1, :html => { :target => '_blank' }) %>
+      <% if @same.lsmall1.empty? %>
+        <h2>Link tidak tersedia</h2>
+      <% else %>
+        <%= auto_link(@same.lsmall1, :html => { :target => '_blank' }) %>
+      <% end %>
     </div>
   </div>
   <br>
@@ -57,7 +61,11 @@
       <h3 class="panel-title">720 MKV</h3>
     </div>
     <div class="panel-body">
-      <%= auto_link(@same.lsmall2, :html => { :target => '_blank' }) %>
+      <% if @same.lsmall2.blank? %>
+        <h2> Link tidak tersedia </h2>
+      <% else %>
+        <%= auto_link(@same.lsmall2, :html => { :target => '_blank' }) %>
+      <% end %>
     </div>
   </div>
   <br>
@@ -67,7 +75,11 @@
       <h3 class="panel-title">480 MP4</h3>
     </div>
     <div class="panel-body">
-      <%= auto_link(@same.lmedium1, :html => { :target => '_blank' }) %>
+      <% if @same.lmedium1.blank? %>
+        <h2>Link tidak tersedia </h2>
+      <% else %>
+        <%= auto_link(@same.lmedium1, :html => { :target => '_blank' }) %>
+      <% end %>
     </div>
   </div>
   <br>
@@ -77,7 +89,11 @@
       <h3 class="panel-title">720 MP4</h3>
     </div>
     <div class="panel-body">
-      <%= auto_link(@same.lmedium2, :html => { :target => '_blank' }) %>
+      <% if @same.lmedium2.blank? %>
+        <h2>Link tidak tersedia </h2>
+      <% else %>
+        <%= auto_link(@same.lmedium2, :html => { :target => '_blank' }) %>
+      <% end %>
     </div>
   </div>
   <br>

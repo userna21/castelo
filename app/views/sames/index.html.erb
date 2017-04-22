@@ -19,19 +19,15 @@
             <tr>
               <td>
                 <% if same.limages.empty? %>
-                <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
+                  <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
                 <% else %>
                   <%= image_tag same.limages.first.url, class: "img-thumbnail", size: "300x300" %>
-                  <% end %>
+                <% end %>
               </td>
               <td><%= link_to same.title, same %><br>
                   <%= time_ago_in_words(same.created_at) %> ago
               </td>
-              <% if same.lsmall1.blank? %>
-                <h2>Link Tidak Tersedia</h2>
-                <% else %>
               <td><%= auto_link(same.lsmall1, :html => {:target => '_blank'}) %></td>
-              <% end %>
               <!-- <td><%= link_to 'Edit', edit_same_path(same) %></td>
               <td><%= link_to 'Destroy', same, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
             </tr>
