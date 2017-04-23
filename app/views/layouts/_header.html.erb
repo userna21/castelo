@@ -1,19 +1,24 @@
-<nav class="navbar navbar-inverse navbar-fixed-top">
-  <div class="container-fluid">
-    <div class="nav navbar-header navbar-center">
-      <%= link_to "AnimeSatu", root_path, class: "navbar-brand" %>
-    </div>
-    <ul class="nav navbar-nav">
-      <li><%= link_to "About", about_path %></li>
-      <li><%= link_to "Contact Us", contact_path %></li>
-    </ul>
 
-    <ul class="nav navbar-nav navbar-right">
-      <li><%= link_to "Oploverz", oploverzs_path %></li>
-      <li><%= link_to "Samehadaku", sames_path %></li>
-      <li><%= link_to "Melodysubs", melodies_path %></li>
-      <li><%= link_to "Tonansubs", tonans_path %></li>
-      <li><%= link_to "Awsubs", awsubs_path %></li>
-    </ul>
-  </div>
-</nav>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <%= link_to "AnimeSatu", root_path, class: "navbar-brand" %>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+          <li><%= link_to "Oploverz", oploverzs_path %></li>
+          <li><%= link_to "Samehadaku", sames_path %></li>
+          <li><%= link_to "Melodysubs", melodies_path %></li>
+          <li><%= link_to "Tonansubs", tonans_path %></li>
+          <li><%= link_to "Awsubs", awsubs_path %></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</div>
