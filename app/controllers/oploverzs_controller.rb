@@ -14,7 +14,7 @@ class OploverzsController < ApplicationController
   # GET /oploverzs/1
   # GET /oploverzs/1.json
   def show
-    @oimages = @oploverz.oimages
+    @ostreams = @oploverz.ostreams
   end
 
   # GET /oploverzs/new

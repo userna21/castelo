@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170415164035) do
+ActiveRecord::Schema.define(version: 20170426140901) do
 
   create_table "aimages", force: :cascade do |t|
     t.text     "url"
@@ -54,6 +54,32 @@ ActiveRecord::Schema.define(version: 20170415164035) do
     t.index ["melody_id"], name: "index_mimages_on_melody_id"
   end
 
+  create_table "mistreams", force: :cascade do |t|
+    t.text     "url"
+    t.integer  "melody_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["melody_id"], name: "index_mistreams_on_melody_id"
+  end
+
+  create_table "movieus", force: :cascade do |t|
+    t.string   "title"
+    t.text     "gstream"
+    t.text     "nstream"
+    t.text     "lstream"
+    t.text     "mstream"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "mstreams", force: :cascade do |t|
+    t.text     "url"
+    t.integer  "movieu_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["movieu_id"], name: "index_mstreams_on_movieu_id"
+  end
+
   create_table "oimages", force: :cascade do |t|
     t.text     "url"
     t.integer  "oploverz_id"
@@ -70,6 +96,14 @@ ActiveRecord::Schema.define(version: 20170415164035) do
     t.datetime "created_at",              null: false
     t.datetime "updated_at",              null: false
     t.integer  "visit_count", default: 0, null: false
+  end
+
+  create_table "ostreams", force: :cascade do |t|
+    t.text     "link"
+    t.integer  "oploverz_id"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+    t.index ["oploverz_id"], name: "index_ostreams_on_oploverz_id"
   end
 
   create_table "sames", force: :cascade do |t|
@@ -104,6 +138,14 @@ ActiveRecord::Schema.define(version: 20170415164035) do
     t.string   "password"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "vimages", force: :cascade do |t|
+    t.text     "url"
+    t.integer  "movieu_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["movieu_id"], name: "index_vimages_on_movieu_id"
   end
 
 end

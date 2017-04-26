@@ -1,0 +1,42 @@
+<%= form_for(movieu) do |f| %>
+  <% if movieu.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(movieu.errors.count, "error") %> prohibited this movieu from being saved:</h2>
+
+      <ul>
+      <% movieu.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field">
+    <%= f.label :gstream %>
+    <%= f.text_area :gstream %>
+  </div>
+
+  <div class="field">
+    <%= f.label :nstream %>
+    <%= f.text_area :nstream %>
+  </div>
+
+  <div class="field">
+    <%= f.label :lstream %>
+    <%= f.text_area :lstream %>
+  </div>
+
+  <div class="field">
+    <%= f.label :mstream %>
+    <%= f.text_area :mstream %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

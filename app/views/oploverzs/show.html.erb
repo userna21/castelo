@@ -2,7 +2,7 @@
 
 <div class="container">
   <div class="header">
-    <h3>
+    <h3 class="text-center">
       <%= @oploverz.title %>
     </h3>
   </div>
@@ -10,20 +10,17 @@
 <br>
 
 <div class="row">
-  <div class="col-md-2">
-    <% if @oploverz.oimages.blank? %>
-      <%= image_tag "http://gsbikerstienen.be/data/uploads/images/leden/no_image.png", class: "thumbnail" %>
-    <% else %>
-      <% @oimages.each do |image| %>
-        <%= image_tag image.url, class: "img-thumbnail", size: "200x200" %>
+  <div class="col-sm-6 col-xs-6 col-md-offset-3">
+  <div class="embed-responsive embed-responsive-4by3">
+    <% @ostreams.each do |ostream| %>
+      <%= videojs_rails sources: { mp4: ostream.link }, controls: true, width: "480x480", class: "embed-responsive-item" %>
       <% end %>
-    <% end %>
-    <br>
-    <br>
-    <%= social_share_button_tag(@oploverz.title) %>
   </div>
+  </div>
+</div>
 
-    <div class="col-md-10">
+  <div class="row">
+    <div class="col-sm-10 col-xs-2">
       <div class="panel panel-default">
         <div class="panel-heading">Basic Information</div>
         <div class="panel-body">

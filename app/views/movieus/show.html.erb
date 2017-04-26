@@ -1,0 +1,47 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <div class="header">
+    <h3 class="text-center">
+      <%= @movieu.title %>
+    </h3>
+  </div>
+<br>
+<div class="row">
+  <div class="col-sm-6 col-xs-6 col-md-offset-3">
+
+    <ul class="nav nav-tabs">
+      <li class="active"><a data-toggle="tab" href="#home">GD</a></li>
+      <li><a data-toggle="tab" href="#menu1">VidNest</a></li>
+      <li><a data-toggle="tab" href="#menu2">VidLox</a></li>
+      <li><a data-toggle="tab" href="#menu3">Mp4U</a></li>
+    </ul>
+
+    <div class="tab-content">
+      <div id="home" class="tab-pane fade in active">
+        <h2>Link streaming 1</h2>
+        <%= link_to @movieu.gstream, @movieu.gstream, :target => '_blank' %>
+      </div>
+      <div id="menu1" class="tab-pane fade">
+        <h2>Link Streaming 2</h2>
+        <%= link_to @movieu.nstream, @movieu.nstream, :target => '_blank' %>
+      </div>
+      <div id="menu2" class="tab-pane fade">
+        <h2>Link Streaming 3</h2>
+        <%= link_to @movieu.lstream, @movieu.lstream, :target => '_blank' %>
+      </div>
+      <div id="menu3" class="tab-pane fade">
+        <h2>Link Streaming 4</h2>
+        <%= link_to @movieu.mstream, @movieu.mstream, :target => '_blank' %>
+      </div>
+    </div>
+    <br>
+    <%= social_share_button_tag(@movieu.title) %>
+    </div>
+  </div>
+  <%= render 'disqus' %>
+</div>
+
+
+<!-- <%= link_to 'Edit', edit_movieu_path(@movieu) %> |
+<%= link_to 'Back', movieus_path %> -->

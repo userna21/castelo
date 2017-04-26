@@ -15,6 +15,7 @@ class MelodiesController < ApplicationController
   # GET /melodies/1.json
   def show
     @mimages = @melody.mimages
+    @mistreams = @melody.mistreams
   end
 
   # GET /melodies/new

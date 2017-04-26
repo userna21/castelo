@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :movieus
   resources :sames
   resources :tonans
   resources :melodies

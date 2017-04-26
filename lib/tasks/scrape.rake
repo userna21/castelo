@@ -7,7 +7,6 @@ namespace :scrape do
     require 'rinku'
     require 'rails_autolink'
 
-
     urltext = 'http://oploverz.in/'
 
     links = []
@@ -31,10 +30,8 @@ namespace :scrape do
         oimages << image.attr("src").split
       end
 
-    # end
-
-
     oploverzs = []
+    ostreams = []
 
     links.each do |link|
       begin
@@ -50,6 +47,16 @@ namespace :scrape do
       sinfo = info1.css('div.animeinfo')
       sinfo1 = sinfo.css('div.sinop')
       sinops = sinfo1.css('p').text.strip
+
+      st = page.css('div.epsc')
+      st1 = st.css('div.soradrive')
+      st2 = st1.css('div.drv')
+      st3 = st2.css('div#embed.video-1')
+      st4 = st3.css('div.embedholder')
+      st5 = st4.css('video')
+      st5.css('source').each do |stream|
+        ostreams << stream.attr(:src)
+      end
 
       smalls = []
       dowloada = info2.css('div.soraddl.op-download')[0]
@@ -96,6 +103,17 @@ namespace :scrape do
         e.message
       end
         @oimage.save
+
+        ostreams.each do |ostream|
+          begin
+          @ostream = Ostream.new
+          @ostream.link = ostream
+          @ostream.oploverz_id = @oploverz.id
+        rescue => e
+          e.message
+        end
+          @ostream.save
+        end
       end
     end
   end
@@ -233,6 +251,7 @@ namespace :scrape do
 
     melodys = []
     mimages = []
+    mistreams = []
 
     links.each do |link|
       begin
@@ -245,6 +264,11 @@ namespace :scrape do
       mtitles = pg4.css('h1').text
       pg5 = pg3.css('div.lexot')
       msinops = pg5.css('p')[0].text
+
+      mstr = pg3.css('div#pembed.player-embed')
+      mstr.css('iframe').each do |stream|
+        mistreams << stream.attr(:src)
+      end
 
       mlimg = pg5.css('div.thm')
       mlimg.css('img').each do |image|
@@ -301,6 +325,18 @@ namespace :scrape do
             e.message
           end
             @mimage.save
+
+            mistreams.each do |mistream|
+              begin
+                @mistream = Mistream.new
+                @mistream.url = mistream
+                @mistream.melody_id = @melody.id
+
+              rescue => e
+                e.message
+              end
+              @mistream.save
+            end
           end
 
       end
@@ -523,12 +559,102 @@ namespace :scrape do
           @limage.save
         end
       end
-
   end
 
   desc "Delete Same Data"
   task destroy_same: :environment do
     Same.destroy_all
+  end
+
+  desc "Get movieu data"
+  task movieu: :environment do
+
+    require 'nokogiri'
+    require "open-uri"
+    # require "byebug"
+
+    url = 'http://www.movieu.net/'
+
+    links = []
+
+    page = Nokogiri::HTML(open(url))
+    mov = page.css('div#content')
+    mov4 = mov.css('section#blog-grid')
+    mov5 = mov4.css('div.blog-grid-container.sidebars_1')
+    mov6 = mov5.css('div.blog-grid-items.clearfix.post-box-wrapper')
+    mov7 = mov6.css('div.content_wrapper')
+    mov8 = mov7.css('header.entry-header')
+    mov9 = mov8.css('h2.entry-title')
+    mov9.css('a[href]').each do |link|
+      links << link.attr(:href)
+    end
+
+    movieus = []
+    vimages = []
+
+    links.each do |link|
+       begin
+      pages = Nokogiri::HTML(open(link))
+      mt = pages.css('div.entry-header-wrapper')
+      mt1 = mt.css('header.entry-header')
+      titles = mt1.css('h1.entry-title').text
+
+      mimg = pages.css('div.clearfix')
+      moimg = mimg.css('p')
+      moimg.css('img').each do |image|
+        vimages << image.attr(:src)
+      end
+
+      mstreams = []
+      mst4 = pages.css('div.arve-embed-container')
+      mst4.css('iframe.arve-iframe.fitvidsignore')[0..3].each do |mstream|
+        mstreams << mstream.attr(:src)
+      end
+
+    rescue => e
+      e.message
+    end
+
+    movieus << {
+      title: titles,
+      gstream: mstreams[0],
+      nstream: mstreams[1],
+      lstream: mstreams[2],
+      mstream: mstreams[3]
+    }
+    end
+
+    movieus.each do |movieu|
+      begin
+      @movieu = Movieu.new
+      @movieu.title = movieu[:title]
+      @movieu.gstream = movieu[:gstream]
+      @movieu.nstream = movieu[:nstream]
+      @movieu.lstream = movieu[:lstream]
+      @movieu.mstream = movieu[:mstream]
+
+    rescue => e
+      e.message
+    end
+      @movieu.save
+
+      vimages.each do |vimage|
+        begin
+        @vimage = Vimage.new
+        @vimage.url = vimage
+        @vimage.movieu_id = @movieu.id
+
+      rescue => e
+        e.message
+      end
+        @vimage.save
+      end
+    end
+  end
+
+  desc "Delete movieu Data"
+  task destroy_movieu: :environment do
+    Movieu.destroy_all
   end
 
 end

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  gstream: MyText
+  nstream: MyText
+  lstream: MyText
+  mstream: MyText
+
+two:
+  title: MyString
+  gstream: MyText
+  nstream: MyText
+  lstream: MyText
+  mstream: MyText

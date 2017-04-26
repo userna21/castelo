@@ -32,6 +32,7 @@ gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 gem 'sunspot_rails', group: :development
 gem 'progress_bar', group: :development
 gem 'sunspot_solr', group: :production
+gem 'videojs_rails'
 
 
 # Use jquery as the JavaScript library
