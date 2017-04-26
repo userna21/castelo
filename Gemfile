@@ -28,11 +28,11 @@ gem 'rails_12factor', group: :production
 
 gem 'rinku'
 gem 'rails_autolink'
-gem 'bcrypt', '~> 3.1', '>= 3.1.11'
+# gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 gem 'sunspot_rails', group: :development
 gem 'progress_bar', group: :development
 gem 'sunspot_solr', group: :production
-gem 'videojs_rails'
+gem 'videojs_rails', group: :production
 
 
 # Use jquery as the JavaScript library
@@ -58,7 +58,7 @@ group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.0.5'
-  gem 'sunspot_solr'
+  # gem 'sunspot_solr'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
