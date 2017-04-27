@@ -251,7 +251,6 @@ namespace :scrape do
 
     melodys = []
     mimages = []
-    mistreams = []
 
     links.each do |link|
       begin
@@ -265,11 +264,10 @@ namespace :scrape do
       pg5 = pg3.css('div.lexot')
       msinops = pg5.css('p')[0].text
 
-      mstr1 = pg3.css('div#embed_holder')
-      mstr2 = mstr1.css('div#lightsVideo')
-      mstr = mstr2.css('div#pembed.player-embed')
-      mstr.css('iframe').each do |stream|
-        mistreams << stream.attr(:src)
+      dstreams = []
+      mstr = pg3.css('div#pembed.player-embed')
+      mstr.css('iframe[src]').each do |stream|
+        dstreams << stream.attr(:src)
       end
 
       mlimg = pg5.css('div.thm')
@@ -300,7 +298,8 @@ namespace :scrape do
       mtitle: mtitles,
       msinop: msinops,
       msmall: msmalls,
-      mmedium: mmediums
+      mmedium: mmediums,
+      dstream: dstreams
     }
     end
 
@@ -311,6 +310,7 @@ namespace :scrape do
       @melody.msinop = melody[:msinop]
       @melody.msmall = melody[:msmall].join(" || ")
       @melody.mmedium = melody[:mmedium].join(" || ")
+      @melody.dstream = melody[:dstream]
 
       rescue => e
         e.message
@@ -327,18 +327,6 @@ namespace :scrape do
             e.message
           end
             @mimage.save
-
-            mistreams.each do |mistream|
-              begin
-                @mistream = Mistream.new
-                @mistream.url = mistream
-                @mistream.melody_id = @melody.id
-
-              rescue => e
-                e.message
-              end
-              @mistream.save
-            end
           end
 
       end

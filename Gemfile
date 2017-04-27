@@ -32,7 +32,7 @@ gem 'rails_autolink'
 gem 'sunspot_rails', group: :development
 gem 'progress_bar', group: :development
 gem 'sunspot_solr', group: :production
-gem 'videojs_rails', group: :production
+gem 'videojs_rails'
 
 
 # Use jquery as the JavaScript library

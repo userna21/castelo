@@ -23,14 +23,12 @@
                   <%= image_tag melody.mimages.first.url, class: "img-thumbnail", size: "300x300" %>
                   <% end %>
               </td>
-              <td><%= link_to melody.mtitle, melody %><br>
-                  <%= time_ago_in_words(melody.created_at) %> ago
+              <td>
+              <%= link_to melody.mtitle, melody %><br>
+              <%= time_ago_in_words(melody.created_at) %> ago
               </td>
               <td><%= truncate(melody.msinop, length: 100) %></td>
-              <!-- <td><%= link_to 'Show', melody %></td>
-              <td><%= link_to 'Edit', edit_melody_path(melody) %></td>
-              <td><%= link_to 'Destroy', melody, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
-            </tr>
+          </tr>
           <% end %>
         </tbody>
       </table>
@@ -53,8 +51,3 @@
 
     </div>
   </div>
-
-
-
-
-<!-- # <%= link_to 'New Melody', new_melody_path %> -->

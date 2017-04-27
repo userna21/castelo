@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170426140901) do
+ActiveRecord::Schema.define(version: 20170427094200) do
 
   create_table "aimages", force: :cascade do |t|
     t.text     "url"
@@ -44,6 +44,7 @@ ActiveRecord::Schema.define(version: 20170426140901) do
     t.text     "mmedium"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.text     "dstream"
   end
 
   create_table "mimages", force: :cascade do |t|

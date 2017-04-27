@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
-  resources :movieus
-  resources :sames
-  resources :tonans
-  resources :melodies
-  resources :awsubs
+  resources :movieus, only: [:index, :show]
+  resources :sames, only: [:index, :show]
+  resources :tonans, only: [:index, :show]
+  resources :melodies, only: [:index, :show]
+  resources :awsubs, only: [:index, :show]
   get 'about' => 'pages#about'
   get 'contact' => 'pages#contact'
 

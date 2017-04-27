@@ -36,9 +36,11 @@
         <h3 class="panel-title">Streaming Link</h3>
       </div>
         <div class="panel-body">
-          <% @mistreams.each do |mistream| %>
-              <%= mistream.url  %>
-            <% end %>
+          <% if @melody.dstream.empty? %>
+            <h2>No Link Streaming</h2>
+          <% else %>
+            <%= auto_link(@melody.dstream, :html => { :target => '_blank' }) %>
+          <% end %>
         </div>
     </div>
 
@@ -65,7 +67,5 @@
     <%= render 'disqus' %>
   </div>
 </div>
-<!--
-<%= link_to 'Edit', edit_melody_path(@melody) %> |
-<%= link_to 'Back', melodies_path %> -->
+
 <br>
