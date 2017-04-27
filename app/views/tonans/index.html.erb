@@ -28,10 +28,8 @@
                   <%= time_ago_in_words(tonan.created_at) %> ago
               </td>
               <td><%= truncate(tonan.sinop, length: 100) %></td>
-              <!-- <td><%= link_to 'Show', tonan %></td>
-              <td><%= link_to 'Edit', edit_tonan_path(tonan) %></td>
-              <td><%= link_to 'Destroy', tonan, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-            </tr> -->
+            <!-- <td><%= link_to 'Destroy', tonan, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
+            </tr>
           <% end %>
         </tbody>
       </table>
@@ -53,7 +51,3 @@
     </div>
     </div>
   </div>
-
-
-
-<!-- <%= link_to 'New Tonan', new_tonan_path %> -->

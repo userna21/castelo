@@ -28,8 +28,7 @@
                   <%= time_ago_in_words(same.created_at) %> ago
               </td>
               <td><%= auto_link(same.lsmall1, :html => {:target => '_blank'}) %></td>
-              <!-- <td><%= link_to 'Edit', edit_same_path(same) %></td>
-              <td><%= link_to 'Destroy', same, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
+              <!-- <td><%= link_to 'Destroy', same, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
             </tr>
           <% end %>
         </tbody>
@@ -55,5 +54,3 @@
 </div>
 
 <br>
-
-<!-- <%= link_to 'New Same', new_same_path %> -->

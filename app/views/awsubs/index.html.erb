@@ -28,8 +28,7 @@
                 <%= time_ago_in_words(awsub.created_at) %> ago
               </td>
               <td><%= truncate(awsub.sinop, length: 100) %></td>
-              <!-- <td><%= link_to 'Edit', edit_awsub_path(awsub) %></td>
-              <td><%= link_to 'Destroy', awsub, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
+              <!-- <td><%= link_to 'Destroy', awsub, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
             </tr>
           <% end %>
         </tbody>
@@ -54,5 +53,3 @@
 </div>
 
 <br>
-
-<!-- <%= link_to 'New Awsub', new_awsub_path %> -->
