@@ -265,7 +265,9 @@ namespace :scrape do
       pg5 = pg3.css('div.lexot')
       msinops = pg5.css('p')[0].text
 
-      mstr = pg3.css('div#pembed.player-embed')
+      mstr1 = pg3.css('div#embed_holder')
+      mstr2 = mstr1.css('div#lightsVideo')
+      mstr = mstr2.css('div#pembed.player-embed')
       mstr.css('iframe').each do |stream|
         mistreams << stream.attr(:src)
       end
