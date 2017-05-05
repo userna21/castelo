@@ -595,10 +595,10 @@ namespace :scrape do
         vimages << image.attr(:src)
       end
 
-      mstreams = []
+      mostreams = []
       mst4 = pages.css('div.arve-embed-container')
       mst4.css('iframe.arve-iframe.fitvidsignore')[0..3].each do |mstream|
-        mstreams << mstream.attr(:src)
+        mostreams << mstream.attr(:src)
       end
 
     rescue => e
@@ -607,10 +607,10 @@ namespace :scrape do
 
     movieus << {
       title: titles,
-      gstream: mstreams[0],
-      nstream: mstreams[1],
-      lstream: mstreams[2],
-      mstream: mstreams[3]
+      gstream: mostreams[0],
+      nstream: mostreams[1],
+      lstream: mostreams[2],
+      mstream: mostreams[3]
     }
     end
 

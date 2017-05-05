@@ -26,13 +26,15 @@ gem 'social-share-button'
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
 
+gem 'whenever', require: false
+gem 'friendly_id', '~> 5.1'
 gem 'rinku'
 gem 'rails_autolink'
 # gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 gem 'sunspot_rails', group: :development
 gem 'progress_bar', group: :development
 gem 'sunspot_solr', group: :production
-gem 'videojs_rails', group: :production
+gem 'videojs_rails'
 
 
 # Use jquery as the JavaScript library
