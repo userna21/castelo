@@ -1,0 +1,2349 @@
+
+---
+aimages:
+  columns:
+  - id
+  - url
+  - awsub_id
+  - created_at
+  - updated_at
+  records: 
+  - - 93
+    - https://2.bp.blogspot.com/-BtxgMIQ4yZ4/WQvzHqlyH0I/AAAAAAAAeNg/mv2uoyzjFcwRNtfXm7Re4_VMMqxNxQ5mgCLcB/s400/clock%2B-%2B05.jpg
+    - 162
+    - '2017-05-05 09:17:13.067520'
+    - '2017-05-05 09:17:13.067520'
+  - - 94
+    - https://3.bp.blogspot.com/-ROgx-nJn5pE/WQvsiDlSHnI/AAAAAAAAeNQ/05KB1AW_4SUEuF4maBxzUrVO7L_nMop1gCLcB/s400/renai%2B-%2B05.jpg
+    - 163
+    - '2017-05-05 09:17:13.398756'
+    - '2017-05-05 09:17:13.398756'
+  - - 95
+    - https://3.bp.blogspot.com/-sBdoWgjmYxI/WQvXICBy4TI/AAAAAAAAeNA/nFGUJxwdnLsEyTxzqiRFPEN_hrpyMqRcQCLcB/s400/tsuki%2B-%2B05.jpg
+    - 164
+    - '2017-05-05 09:17:13.756790'
+    - '2017-05-05 09:17:13.756790'
+  - - 96
+    - https://3.bp.blogspot.com/--j_lRibFZBY/WQvHy7MnqhI/AAAAAAAAeMw/hTRgxDIyJLoWF80vwSc8v3f-LM9bDW9MQCLcB/s400/saekano%2B2%2B-%2B04.jpg
+    - 165
+    - '2017-05-05 09:17:14.111087'
+    - '2017-05-05 09:17:14.111087'
+  - - 97
+    - https://3.bp.blogspot.com/-Obvzh1z8gyk/WQqsZFcWkZI/AAAAAAAAeMg/rsUdzjP2PI0YoIp4ivJKY4bSZuLy4IznQCLcB/s400/quest%2B-%2B05.jpg
+    - 166
+    - '2017-05-05 09:17:14.491805'
+    - '2017-05-05 09:17:14.491805'
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2017-02-14 06:43:41.801360'
+    - '2017-02-14 06:43:41.801360'
+
+---
+awsubs:
+  columns:
+  - id
+  - title
+  - sinop
+  - asmall
+  - amedium
+  - created_at
+  - updated_at
+  - slug
+  records: 
+  - - 162
+    - Clockwork Planet Episode 5 Subtitle Indonesia
+    - |-
+      Sinopsis:
+      Naoto merupakan siswa SMA yang putus sekolah dan merupakan ahli jam amatir yang sebetulnya terbilang berbakat, walaupun ia tidak mampu memerbaiki sebuah jam, akan tetapi dengan kenekatannya dia mampu memerbaiki seorang gadis yang merupakan mesin jam mutakhir, automaton yang jatuh dari atap rumahnya yang di mana memiliki kerumitan mesin yang jauh lebih tinggi untuk diperbaiki, ini menunjukkan kalau Naoto bukanlah ahli jam sembarangan dan bukan tidak mungkin Naoto akan menjadi pahlawan yang bisa memerbaiki planet mesin jam!
+    - http://short.awsubs.co/iJ0v8 || http://short.awsubs.co/H4M6B || http://short.awsubs.co/o4c4R
+      || http://bit.ly/2qKFIw6 || http://jheberg.net/captcha/awsubs-clockwork-planet-05-480p961bd5af/
+      || http://bit.ly/2qKPSwG || http://short.awsubs.co/rUquo
+    - http://short.awsubs.co/svPCn || http://short.awsubs.co/FtMpR || http://short.awsubs.co/wJoLD
+      || http://bit.ly/2p32XFv || http://jheberg.net/captcha/awsubs-clockwork-planet-05-720pdd11c889/
+      || http://bit.ly/2qxArvw || http://short.awsubs.co/uG5ef
+    - '2017-05-05 09:17:12.843143'
+    - '2017-05-05 09:17:12.843143'
+    - clockwork-planet-episode-5-subtitle-indonesia
+  - - 163
+    - Renai Boukun Episode 5 Subtitle Indonesia
+    - |-
+      Sinopsis:
+      Kiss Note adalah buku yang sangat kuat sampai bisa membuat siapa pun yang tertulis di dalamnya menjadi sepasang kekasih apa pun yang terjadi. Buku sihir yang tidak asing ini milik Guri yang bertugas menjadi cupid dan menjodohkan pasangan-pasangan.
+    - http://short.awsubs.co/XQl1c || http://short.awsubs.co/Sgxup || http://short.awsubs.co/O4V7D
+      || http://bit.ly/2pbTozj || http://jheberg.net/captcha/awsubs-renai-boukun-05-480p9d634f59/
+      || http://bit.ly/2qxglBE || http://short.awsubs.co/4yoep
+    - http://short.awsubs.co/YVY1Y || http://short.awsubs.co/lQsWK || http://short.awsubs.co/ItwjU
+      || http://bit.ly/2q5aAuX || http://jheberg.net/captcha/awsubs-renai-boukun-05-720p11f2194f/
+      || http://bit.ly/2qxwLdn || http://short.awsubs.co/WGIq2
+    - '2017-05-05 09:17:13.211463'
+    - '2017-05-05 09:17:13.211463'
+    - renai-boukun-episode-5-subtitle-indonesia
+  - - 164
+    - Tsuki ga Kirei Episode 5 Subtitle Indonesia
+    - |-
+      Sinopsis:
+      Kotarou Azumi dan Akane Mizuno mulai menjadi murid kelas 3 di SMP dan menjadi teman sekelas untuk pertama kalinya. Mereka berdua, bersama dengan teman sekelas yang lain, Chinatsu Nishio dan Takumi Hira, akrab berkat perasaan dan kepentingan yang sama. Ketika tahun terakhir di SMP mereka mulai berjalan, mereka mendapati tantangan untuk menjadi semakin dewasa dan berubah menjadi lebih baik.
+    - http://short.awsubs.co/8p9ZD || http://short.awsubs.co/E4C8R || http://short.awsubs.co/woOuc
+      || http://bit.ly/2q4So4S || http://jheberg.net/captcha/awsubs-tsuki-ga-kirei-05-480pb4ba1505/
+      || http://bit.ly/2p2Ot8x || http://short.awsubs.co/7aUin
+    - http://short.awsubs.co/qY7Bw || http://short.awsubs.co/6fJyS || http://short.awsubs.co/DEZdp
+      || http://bit.ly/2peNb6h || http://jheberg.net/captcha/awsubs-tsuki-ga-kirei-05-720p8f7be59d/
+      || http://bit.ly/2qxiVHL || http://short.awsubs.co/ZV2YV
+    - '2017-05-05 09:17:13.581827'
+    - '2017-05-05 09:17:13.581827'
+    - tsuki-ga-kirei-episode-5-subtitle-indonesia
+  - - 165
+    - Saenai Heroine no Sodatekata Flat Episode 4 Subtitle Indonesia
+    - |-
+      Sinopsis:
+      Saenai Heroine no Sodatekata musim kedua.
+    - http://short.awsubs.co/aF0gN || http://short.awsubs.co/vRb3P || http://short.awsubs.co/amMjA
+      || http://bit.ly/2pLFO7x || http://jheberg.net/captcha/awsubs-saekano-2-04-480pdf923feb/
+      || http://bit.ly/2pMuBWq || http://short.awsubs.co/ZaUlX
+    - http://short.awsubs.co/wxfO6 || http://short.awsubs.co/VqFGu || http://short.awsubs.co/mcAt5
+      || http://bit.ly/2pMES4N || http://jheberg.net/captcha/awsubs-saekano-2-04-720p51e2381c/
+      || http://bit.ly/2qG7kTV || http://short.awsubs.co/8RWKr
+    - '2017-05-05 09:17:13.916403'
+    - '2017-05-05 09:17:13.916403'
+    - saenai-heroine-no-sodatekata-flat-episode-4-subtitle-indonesia
+  - - 166
+    - "[OPEN-TRIP] Osaka-Kyoto-Kobe Bersama AWSubs"
+    - 
+    - 
+    - 
+    - '2017-05-05 09:17:14.284711'
+    - '2017-05-05 09:17:14.284711'
+    - open-trip-osaka-kyoto-kobe-bersama-awsubs
+  - - 167
+    - Sakura Quest Episode 5 Subtitle Indonesia
+    - |-
+      Sinopsis:
+      Di sebuah desa kecil di pinggiran daerah, desa tersebut mendapatkan panggilan “negara kecil” untuk program turis dan wisata. Memperkejakan lima wanita sebagai duta wisata. Menceritakan tentang satu tahun penuh cerita tentang bagaimana lima orang gadis itu bekerja dan hidup sebagai agensi wisata dari desa kecil tersebut untuk menghidupkan kembali nama dari desa tersebut.
+    - http://short.awsubs.co/vYCWN || http://short.awsubs.co/olKVc || http://short.awsubs.co/6shzO
+      || http://bit.ly/2q0CKHE || http://jheberg.net/captcha/awsubs-sakura-quest-05-480p3724e98f/
+      || http://bit.ly/2pJFeJC || http://short.awsubs.co/JGb1i
+    - http://short.awsubs.co/MUIUC || http://short.awsubs.co/5bTyw || http://short.awsubs.co/RfvKw
+      || http://bit.ly/2pJJQPV || http://jheberg.net/captcha/awsubs-sakura-quest-05-720p5ba99179/
+      || http://bit.ly/2oZS6Mo || http://short.awsubs.co/3xwco
+    - '2017-05-05 09:17:14.701176'
+    - '2017-05-05 09:17:14.701176'
+    - sakura-quest-episode-5-subtitle-indonesia
+
+---
+friendly_id_slugs:
+  columns:
+  - id
+  - slug
+  - sluggable_id
+  - sluggable_type
+  - scope
+  - created_at
+  records: 
+  - - 1
+    - sagrada-reset-05-subtitle-indonesia
+    - 723
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:21.854633'
+  - - 2
+    - boruto-naruto-next-generations-05-subtitle-indonesia
+    - 724
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:23.001146'
+  - - 3
+    - yowamushi-pedal-new-generation-17-subtitle-indonesia
+    - 725
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:24.105263'
+  - - 4
+    - one-piece-episode-786-subtitle-indonesia
+    - 726
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:25.253138'
+  - - 5
+    - dragon-ball-super-88-subtitle-indonesia
+    - 727
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:26.351551'
+  - - 6
+    - tales-of-zestiria-the-x-s2-13-subtitle-indonesia-end
+    - 728
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:27.433182'
+  - - 7
+    - shingeki-no-kyojin-s2-05-subtitle-indonesia
+    - 729
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:28.579991'
+  - - 8
+    - boku-no-hero-academia-s2-05-subtitle-indonesia
+    - 730
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:29.778008'
+  - - 9
+    - one-piece-episode-118-subtitle-indonesia-remastered
+    - 731
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:30.987304'
+  - - 10
+    - sagrada-reset-04-subtitle-indonesia
+    - 732
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:32.169530'
+  - - 11
+    - boruto-naruto-next-generations-04-subtitle-indonesia
+    - 733
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:33.333847'
+  - - 12
+    - yowamushi-pedal-new-generation-16-subtitle-indonesia
+    - 734
+    - Oploverz
+    - 
+    - '2017-05-05 09:16:34.586556'
+  - - 13
+    - clockwork-planet-episode-5-subtitle-indonesia
+    - 162
+    - Awsub
+    - 
+    - '2017-05-05 09:17:12.891048'
+  - - 14
+    - renai-boukun-episode-5-subtitle-indonesia
+    - 163
+    - Awsub
+    - 
+    - '2017-05-05 09:17:13.224988'
+  - - 15
+    - tsuki-ga-kirei-episode-5-subtitle-indonesia
+    - 164
+    - Awsub
+    - 
+    - '2017-05-05 09:17:13.591933'
+  - - 16
+    - saenai-heroine-no-sodatekata-flat-episode-4-subtitle-indonesia
+    - 165
+    - Awsub
+    - 
+    - '2017-05-05 09:17:13.925530'
+  - - 17
+    - open-trip-osaka-kyoto-kobe-bersama-awsubs
+    - 166
+    - Awsub
+    - 
+    - '2017-05-05 09:17:14.297249'
+  - - 18
+    - sakura-quest-episode-5-subtitle-indonesia
+    - 167
+    - Awsub
+    - 
+    - '2017-05-05 09:17:14.712054'
+  - - 19
+    - clockwork-planet-episode-05-subtitle-indonesia
+    - 38
+    - Same
+    - 
+    - '2017-05-05 09:18:32.349944'
+  - - 20
+    - renai-boukun-episode-05-subtitle-indonesia
+    - 39
+    - Same
+    - 
+    - '2017-05-05 09:18:32.763933'
+  - - 21
+    - saekano-season-2-episode-04-subtitle-indonesia
+    - 40
+    - Same
+    - 
+    - '2017-05-05 09:18:33.146889'
+  - - 22
+    - tsuki-ga-kirei-episode-05-subtitle-indonesia
+    - 41
+    - Same
+    - 
+    - '2017-05-05 09:18:33.498607'
+  - - 23
+    - busou-shoujo-machiavellianism-episode-05-subtitle-indonesia
+    - 42
+    - Same
+    - 
+    - '2017-05-05 09:18:33.889660'
+  - - 24
+    - sagrada-reset-episode-05-subtitle-indonesia
+    - 43
+    - Same
+    - 
+    - '2017-05-05 09:18:34.290460'
+  - - 25
+    - sakura-quest-episode-05-subtitle-indonesia
+    - 44
+    - Same
+    - 
+    - '2017-05-05 09:18:34.676776'
+  - - 26
+    - clockwork-planet-episode-5-subtitle-indonesia
+    - 158
+    - Tonan
+    - 
+    - '2017-05-05 09:18:42.643964'
+  - - 27
+    - tsuki-ga-kirei-episode-5-subtitle-indonesia
+    - 159
+    - Tonan
+    - 
+    - '2017-05-05 09:18:43.195483'
+  - - 28
+    - busou-shoujo-machiavellianism-episode-5-subtitle-indonesia
+    - 160
+    - Tonan
+    - 
+    - '2017-05-05 09:18:43.624850'
+  - - 29
+    - frame-arms-girl-episode-5-subtitle-indonesia
+    - 161
+    - Tonan
+    - 
+    - '2017-05-05 09:18:44.617699'
+  - - 30
+    - sukasuka-episode-4-subtitle-indonesia
+    - 162
+    - Tonan
+    - 
+    - '2017-05-05 09:18:45.087056'
+  - - 31
+    - rokudenashi-majutsu-koushi-to-akashic-records-episode-5-subtitle-indonesia
+    - 163
+    - Tonan
+    - 
+    - '2017-05-05 09:18:45.551036'
+  - - 32
+    - zero-kara-hajimeru-mahou-no-sho-episode-4-subtitle-indonesia
+    - 164
+    - Tonan
+    - 
+    - '2017-05-05 09:18:45.960738'
+  - - 33
+    - souryo-to-majiwaru-shikiyoku-no-yoru-ni-episode-5-v2-subtitle-indonesia
+    - 165
+    - Tonan
+    - 
+    - '2017-05-05 09:18:46.355488'
+  - - 34
+    - eromanga-sensei-episode-4-subtitle-indonesia
+    - 166
+    - Tonan
+    - 
+    - '2017-05-05 09:18:46.777076'
+  - - 35
+    - gin-no-guardian-episode-5-subtitle-indonesia
+    - 167
+    - Tonan
+    - 
+    - '2017-05-05 09:18:47.399364'
+  - - 36
+    - granblue-fantasy-the-animation-episode-5-subtitle-indonesia
+    - 168
+    - Tonan
+    - 
+    - '2017-05-05 09:18:47.819124'
+  - - 37
+    - sin-nanatsu-no-taizai-episode-3-subtitle-indonesia
+    - 169
+    - Tonan
+    - 
+    - '2017-05-05 09:18:48.207267'
+  - - 38
+    - sword-oratoria-episode-3-subtitle-indonesia
+    - 170
+    - Tonan
+    - 
+    - '2017-05-05 09:18:48.623540'
+  - - 39
+    - hinako-note-episode-4-subtitle-indonesia
+    - 171
+    - Tonan
+    - 
+    - '2017-05-05 09:18:49.111950'
+  - - 40
+    - saenai-heroine-no-sodatekata-s2-episode-3-subtitle-indonesia
+    - 172
+    - Tonan
+    - 
+    - '2017-05-05 09:18:49.527738'
+  - - 41
+    - clockwork-planet-episode-4-subtitle-indonesia
+    - 173
+    - Tonan
+    - 
+    - '2017-05-05 09:18:49.967919'
+  - - 42
+    - tsuki-ga-kirei-episode-4-subtitle-indonesia
+    - 174
+    - Tonan
+    - 
+    - '2017-05-05 09:18:50.398013'
+  - - 43
+    - hinako-note-episode-4-subtitle-indonesia
+    - 516
+    - Melody
+    - 
+    - '2017-05-05 09:18:57.703239'
+  - - 44
+    - cinderella-girls-gekijou-web-episode-5-subtitle-indonesia
+    - 517
+    - Melody
+    - 
+    - '2017-05-05 09:18:58.141802'
+  - - 45
+    - cinderella-girls-gekijou-tv-episode-5-subtitle-indonesia
+    - 518
+    - Melody
+    - 
+    - '2017-05-05 09:18:58.532264'
+  - - 46
+    - frame-arms-girls-episode-5-subtitle-indonesia
+    - 519
+    - Melody
+    - 
+    - '2017-05-05 09:18:58.964786'
+  - - 47
+    - rokudenashi-majutsu-koushi-to-akashic-records-episode-4-subtitle-indonesia
+    - 520
+    - Melody
+    - 
+    - '2017-05-05 09:18:59.429075'
+  - - 48
+    - saenai-heroine-no-sodatekata-episode-3-subtitle-indonesia
+    - 521
+    - Melody
+    - 
+    - '2017-05-05 09:18:59.848279'
+  - - 49
+    - tsuki-ga-kirei-episode-4-subtitle-indonesia
+    - 522
+    - Melody
+    - 
+    - '2017-05-05 09:19:00.229171'
+  - - 50
+    - frame-arms-girls-episode-4-subtitle-indonesia
+    - 523
+    - Melody
+    - 
+    - '2017-05-05 09:19:00.710368'
+  - - 51
+    - granblue-fantasy-the-animation-episode-4-subtitle-indonesia
+    - 524
+    - Melody
+    - 
+    - '2017-05-05 09:19:01.145690'
+  - - 52
+    - sin-nanatsu-no-taizai-episode-3-subtitle-indonesia
+    - 525
+    - Melody
+    - 
+    - '2017-05-05 09:19:01.533615'
+  - - 53
+    - kenka-banchou-otome-episode-3-subtitle-indonesia
+    - 526
+    - Melody
+    - 
+    - '2017-05-05 09:19:01.945281'
+  - - 54
+    - love-kome-we-love-rice-episode-4-subtitle-indonesia
+    - 527
+    - Melody
+    - 
+    - '2017-05-05 09:19:02.387996'
+  - - 55
+    - cinderella-girls-gekijou-web-episode-4-subtitle-indonesia
+    - 528
+    - Melody
+    - 
+    - '2017-05-05 09:19:02.888211'
+  - - 56
+    - cinderella-girls-gekijou-tv-episode-4-subtitle-indonesia
+    - 529
+    - Melody
+    - 
+    - '2017-05-05 09:19:03.278346'
+  - - 57
+    - clockwork-planet-episode-4-subtitle-indonesia
+    - 530
+    - Melody
+    - 
+    - '2017-05-05 09:19:03.683309'
+  - - 58
+    - the-king-s-avatar-episode-2-subtitle-indonesia
+    - 531
+    - Melody
+    - 
+    - '2017-05-05 09:19:04.209710'
+  - - 59
+    - kabukibu-episode-3-subtitle-indonesia
+    - 532
+    - Melody
+    - 
+    - '2017-05-05 09:19:04.746172'
+  - - 60
+    - frame-arms-girls-episode-3-subtitle-indonesia
+    - 533
+    - Melody
+    - 
+    - '2017-05-05 09:19:05.225037'
+  - - 61
+    - frame-arms-girls-episode-2-subtitle-indonesia
+    - 534
+    - Melody
+    - 
+    - '2017-05-05 09:19:05.692341'
+  - - 62
+    - eromanga-sensei-episode-2-subtitle-indonesia
+    - 535
+    - Melody
+    - 
+    - '2017-05-05 09:19:06.152105'
+  - - 63
+    - clockwork-planet-episode-5-subtitle-indonesia
+    - 76
+    - Movieu
+    - 
+    - '2017-05-05 09:19:07.051807'
+  - - 64
+    - renai-boukun-episode-5-subtitle-indonesia
+    - 77
+    - Movieu
+    - 
+    - '2017-05-05 09:19:07.527775'
+  - - 65
+    - saekano-season-2-episode-4-subtitle-indonesia
+    - 78
+    - Movieu
+    - 
+    - '2017-05-05 09:19:07.888811'
+  - - 66
+    - tsuki-ga-kirei-episode-5-subtitle-indonesia
+    - 79
+    - Movieu
+    - 
+    - '2017-05-05 09:19:08.277028'
+  - - 67
+    - busou-shoujo-machiavellianism-episode-5-subtitle-indonesia
+    - 80
+    - Movieu
+    - 
+    - '2017-05-05 09:19:08.669096'
+  - - 68
+    - sagrada-reset-episode-5-subtitle-indonesia
+    - 81
+    - Movieu
+    - 
+    - '2017-05-05 09:19:09.031504'
+  - - 69
+    - sakura-quest-episode-5-subtitle-indonesia
+    - 82
+    - Movieu
+    - 
+    - '2017-05-05 09:19:09.384066'
+  - - 70
+    - boruto-naruto-next-generations-episode-5-subtitle-indonesia
+    - 83
+    - Movieu
+    - 
+    - '2017-05-05 09:19:09.751460'
+  - - 71
+    - oushitsu-kyoushi-haine-episode-5-subtitle-indonesia
+    - 84
+    - Movieu
+    - 
+    - '2017-05-05 09:19:10.131677'
+  - - 72
+    - id-0-episode-4-subtitle-indonesia
+    - 85
+    - Movieu
+    - 
+    - '2017-05-05 09:19:10.482199'
+  - - 73
+    - fukumenkei-noise-episode-4-subtitle-indonesia
+    - 86
+    - Movieu
+    - 
+    - '2017-05-05 09:19:10.865455'
+  - - 74
+    - rokudenashi-majutsu-koushi-to-akashic-records-episode-5-subtitle-indonesia
+    - 87
+    - Movieu
+    - 
+    - '2017-05-05 09:19:11.220495'
+  - - 75
+    - frame-arms-girl-episode-5-subtitle-indonesia
+    - 88
+    - Movieu
+    - 
+    - '2017-05-05 09:19:11.597552'
+  - - 76
+    - zero-kara-hajimeru-mahou-no-sho-episode-4-subtitle-indonesia
+    - 89
+    - Movieu
+    - 
+    - '2017-05-05 09:19:11.993014'
+  - - 77
+    - tsugumomo-episode-5-subtitle-indonesia
+    - 90
+    - Movieu
+    - 
+    - '2017-05-05 09:19:12.378690'
+
+---
+limages:
+  columns:
+  - id
+  - url
+  - same_id
+  - created_at
+  - updated_at
+  records: 
+  - - 30
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Clockwork-Planet-Episode-05-Subtitle-Indonesia-326x245.jpg
+    - 38
+    - '2017-05-05 09:18:32.548210'
+    - '2017-05-05 09:18:32.548210'
+  - - 31
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Renai-Boukun-Episode-05-Subtitle-Indonesia-326x245.jpg
+    - 39
+    - '2017-05-05 09:18:32.956057'
+    - '2017-05-05 09:18:32.956057'
+  - - 32
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Saekano-Season-2-Episode-04-Subtitle-Indonesia-326x245.jpg
+    - 40
+    - '2017-05-05 09:18:33.322047'
+    - '2017-05-05 09:18:33.322047'
+  - - 33
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Tsugumomo-Episode-06-Subtitle-Indonesia-326x245.jpg
+    - 41
+    - '2017-05-05 09:18:33.682840'
+    - '2017-05-05 09:18:33.682840'
+  - - 34
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Busou-Shoujo-Machiavellianism-Episode-05-Subtitle-Indonesia-326x245.jpg
+    - 42
+    - '2017-05-05 09:18:34.108712'
+    - '2017-05-05 09:18:34.108712'
+  - - 35
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Sagrada-Reset-Episode-05-Subtitle-Indonesia-326x245.jpg
+    - 43
+    - '2017-05-05 09:18:34.493484'
+    - '2017-05-05 09:18:34.493484'
+  - - 36
+    - https://www.samehadaku.net/wp-content/uploads/2017/05/Sakura-Quest-Episode-05-Subtitle-Indonesia-326x245.jpg
+    - 44
+    - '2017-05-05 09:18:34.883059'
+    - '2017-05-05 09:18:34.883059'
+
+---
+melodies:
+  columns:
+  - id
+  - mtitle
+  - msinop
+  - msmall
+  - mmedium
+  - created_at
+  - updated_at
+  - dstream
+  - slug
+  records: 
+  - - 516
+    - Hinako Note Episode 4 Subtitle Indonesia
+    - Hinako adalah seorang gadis pemalu yang disukai binatang. Karena hal itu, Hinako
+      bekerja sebagai orang-orangan untuk menjauhkan binatang dari ladang tetangganya.
+      Begitulah kisah dari gadis orang-orangan dimulai!
+    - |-
+      https://tusfiles.net/q655rz96hysc
+       || http://www.datafilehost.com/d/4c415e6e
+       || http://www79.zippyshare.com/v/aW51HX5n/file.html
+       || http://www.mirrorcreator.com/files/1E6MZFLZ/
+    - |-
+      https://tusfiles.net/of21kwqq286d
+       || http://www.datafilehost.com/d/337b8e34
+       || http://www12.zippyshare.com/v/8wzankcw/file.html
+       || http://www.mirrorcreator.com/files/0Z5LVLEE/
+    - '2017-05-05 09:18:57.643862'
+    - '2017-05-05 09:18:57.643862'
+    - '["http://acefile.co/player/14349/melody-hinako-note-04-720p170e4c8d-mkv.html"]'
+    - hinako-note-episode-4-subtitle-indonesia
+  - - 517
+    - Cinderella Girls Gekijou (Web) Episode 5 Subtitle Indonesia
+    - Sebuah adaptasi anime dari komik 5-panel, The IDOLM@Ster Cinderella Gekijou.
+    - |-
+      https://tusfiles.net/zabg1h1flcb0
+       || http://www.datafilehost.com/d/30e613e8
+       || http://www74.zippyshare.com/v/g0q1j3FM/file.html
+       || http://www.mirrorcreator.com/files/0EFEQPCQ/
+    - |-
+      https://tusfiles.net/j23fl3uqjxjh
+       || http://www.datafilehost.com/d/29e65b91
+       || http://www86.zippyshare.com/v/aZKITsgl/file.html
+       || http://www.mirrorcreator.com/files/1RETNESM/
+    - '2017-05-05 09:18:58.130833'
+    - '2017-05-05 09:18:58.130833'
+    - '["http://acefile.co/player/14347/melody_the_idolm_ster_cinderella_girls_theater_web_-_05_720p-mkv.html"]'
+    - cinderella-girls-gekijou-web-episode-5-subtitle-indonesia
+  - - 518
+    - Cinderella Girls Gekijou (TV) Episode 5 Subtitle Indonesia
+    - Sebuah adaptasi anime dari komik 5-panel, The IDOLM@Ster Cinderella Gekijou.
+    - |-
+      https://tusfiles.net/c2st5s5sze6u
+       || http://www.datafilehost.com/d/df5b8e93
+       || http://www76.zippyshare.com/v/fHFiTG5M/file.html
+       || http://www.mirrorcreator.com/files/1P6FRHBD/
+    - |-
+      https://tusfiles.net/njcyvuskq5g8
+       || http://www.datafilehost.com/d/4e1ad7da
+       || http://www18.zippyshare.com/v/YuujTHOR/file.html
+       || http://www.mirrorcreator.com/files/LGF7OE8R/
+    - '2017-05-05 09:18:58.523837'
+    - '2017-05-05 09:18:58.523837'
+    - '["http://acefile.co/player/14341/melody_the_idolm_ster_cinderella_girls_theater_tv_-_05_720p-mkv.html"]'
+    - cinderella-girls-gekijou-tv-episode-5-subtitle-indonesia
+  - - 519
+    - Frame Arms Girls Episode 5 Subtitle Indonesia
+    - Diadaptasi dari modelkit Frame Arms Girl buatan Kotobukiya. Anime ini akan berfokus
+      pada Gourai, model pertama yang pernah dirilis, bersama dengan Stylet dan Baselard.
+    - |-
+      https://tusfiles.net/73547f5sneid
+       || http://www.datafilehost.com/d/40e6a4ae
+       || http://www59.zippyshare.com/v/MdIGCUPM/file.html
+       || http://www.mirrorcreator.com/files/V5HEATBY/
+    - |-
+      https://tusfiles.net/y3vki0l3lebs
+       || http://www.datafilehost.com/d/112e7ad0
+       || https://clicknupload.link/qkccs7dm4j8c
+       || http://www.mirrorcreator.com/files/LINKIGZH/
+    - '2017-05-05 09:18:58.954353'
+    - '2017-05-05 09:18:58.954353'
+    - '["http://acefile.co/player/14291/melody_frame_arms_girl_-_05_720p_0-mkv.html"]'
+    - frame-arms-girls-episode-5-subtitle-indonesia
+  - - 520
+    - Rokudenashi Majutsu Koushi to Akashic Records Episode 4 Subtitle Indonesia
+    - Sisti menghadiri sebuah akademi sihir demi mengasah kemampuannya dalam seni
+      bela diri sihir, serta menyelesaikan misteri dari Kastil Langit. Setelah guru
+      kesayangannya pensiun, sang guru pengganti, Glen, ternyata adalah seorang guru
+      yang pemalas, dan sangat tidak kompeten dalam bidangnya. Tapi bagaimana Glen
+      bisa dipilih oleh penyihir terbaik di akademi untuk mengajar di sana!?
+    - http://www.solidfiles.com/d/xq4QPLjd8rD3g || https://tusfiles.net/b4ue0c1nhplw
+      || http://www89.zippyshare.com/v/vSrWM1y6/file.html || http://www.mirrorcreator.com/files/OVTORMS8/
+    - http://www.solidfiles.com/d/RqMpaAW2x7xmz || https://tusfiles.net/uizc7ae3izqu
+      || http://www84.zippyshare.com/v/Mww7n20c/file.html || http://www.mirrorcreator.com/files/1IRDCN7X/
+    - '2017-05-05 09:18:59.420274'
+    - '2017-05-05 09:18:59.420274'
+    - "[]"
+    - rokudenashi-majutsu-koushi-to-akashic-records-episode-4-subtitle-indonesia
+  - - 521
+    - Saenai Heroine no Sodatekata ♭ Episode 3 Subtitle Indonesia
+    - Season kedua dari Saenai Heroine no Sodatekata.
+    - http://www111.zippyshare.com/v/VhE5C3Li/file.html || https://clicknupload.link/yjurlavehzth
+      || http://www.datafilehost.com/d/ccf80662 || http://www.mirrorcreator.com/files/DHKVTJZX/[Melody]_Saenai_Heroine_No_Sodatekata_S2_-_03_[480p].mkv_links
+    - http://www45.zippyshare.com/v/YMJkrWL8/file.html || https://clicknupload.link/khcb1c585rs0
+      || http://www.datafilehost.com/d/30f180fa || http://www.mirrorcreator.com/files/1FPIMRHP/[Melody]_Saenai_Heroine_No_Sodatekata_S2_-_03_[720p].mkv_links
+    - '2017-05-05 09:18:59.839509'
+    - '2017-05-05 09:18:59.839509'
+    - '["http://acefile.co/player/12748/melody_saenai_heroine_no_sodatekata_s2_-_03_720p-mkv.html"]'
+    - saenai-heroine-no-sodatekata-episode-3-subtitle-indonesia
+  - - 522
+    - Tsuki ga Kirei Episode 4 Subtitle Indonesia
+    - Kotarou Azumi dan Akane Mizuno sudah menjadi kelas 3 SMP dan satu kelas untuk
+      pertama kalinya. Mereka berdua, bersama dengan teman kelas mereka, Chinatsu
+      Nishio dan Takumi Hira, berhubungan satu sama lain melalui pemahaman diri dan
+      perasaan. Selama tahun ketiganya di SMP berjalan, mereka mengatasi tantangan
+      agar lebih dewasa dan menyadari akan perubahan dalam diri mereka.
+    - http://www.solidfiles.com/d/LGvYnxnZMddgd || https://tusfiles.net/x2fwm31otdlm
+      || http://www107.zippyshare.com/v/phTCvLoV/file.html || http://www.mirrorcreator.com/files/E90LHBKX/
+    - http://www.solidfiles.com/d/k3pjQPykwKXKp || https://tusfiles.net/7xszardvtguz
+      || http://www21.zippyshare.com/v/Ve6oi3Wn/file.html || http://www.mirrorcreator.com/files/LHC1MQ91/[Melody]_Tsuki_ga_Kirei_-_04_[720p].mkv_links
+    - '2017-05-05 09:19:00.219307'
+    - '2017-05-05 09:19:00.219307'
+    - "[]"
+    - tsuki-ga-kirei-episode-4-subtitle-indonesia
+  - - 523
+    - Frame Arms Girls Episode 4 Subtitle Indonesia
+    - Diadaptasi dari modelkit Frame Arms Girl buatan Kotobukiya. Anime ini akan berfokus
+      pada Gourai, model pertama yang pernah dirilis, bersama dengan Stylet dan Baselard.
+    - |-
+      http://www.solidfiles.com/d/NG86P67VZApwG
+       || http://www.datafilehost.com/d/3531c852
+       || http://www73.zippyshare.com/v/hRCOsnDx/file.html
+       || http://www.mirrorcreator.com/files/1SKCAF8F/
+    - |-
+      http://www.solidfiles.com/d/8NxzrBQ5zB3Bm
+       || http://www.datafilehost.com/d/f9cb8eb4
+       || http://www55.zippyshare.com/v/h6m2xCiS/file.html
+       || http://www.mirrorcreator.com/files/E5XKDQTQ/
+    - '2017-05-05 09:19:00.700271'
+    - '2017-05-05 09:19:00.700271'
+    - '["http://acefile.co/player/12356/melody-frame-arms-girl-04-720p-mkv.html"]'
+    - frame-arms-girls-episode-4-subtitle-indonesia
+  - - 524
+    - Granblue Fantasy The Animation Episode 4 Subtitle Indonesia
+    - Dunia Langit, dunia yang memiliki banyak pulau yang melayang di langit. Zinkenstill
+      adalah salah satu pulau misterius yang ada di Dunia Langit. Di pulau tersebut,
+      hidup seorang anak laki-laki bernama Gran bersama dengan seekor naga bernama
+      Vyrn. Suatu hari mereka bertemu dengan Lyria, gadis cantik yang melarikan diri
+      dari Kerajaan Eleste yang memiliki kekuatan militer yang kuat dan ingin menguasai
+      Dunia Langit.
+    - |-
+      http://www.solidfiles.com/d/vZ7qadrGvLWAy
+       || https://userscloud.com/u05k5wr7mme3
+       || http://www16.zippyshare.com/v/9tBwEwaV/file.html
+       || http://www.mirrorcreator.com/files/ZXJL3HNV/
+    - |-
+      http://www.solidfiles.com/d/8NxzvNkgNN6zr
+       || http://www.datafilehost.com/d/4dfa0acd
+       || http://www40.zippyshare.com/v/7q3h8Oqc/file.html
+       || http://www.mirrorcreator.com/files/INS71UGY/
+    - '2017-05-05 09:19:01.137518'
+    - '2017-05-05 09:19:01.137518'
+    - '["http://acefile.co/player/12352/melody_granblue_fantasy_the_animation_-_04_720p-mkv.html"]'
+    - granblue-fantasy-the-animation-episode-4-subtitle-indonesia
+  - - 525
+    - 'Sin: Nanatsu no Taizai Episode 3 Subtitle Indonesia'
+    - 'Hei, kau, maukah kau menyembah para ratu iblis? Ratu-ratu cantik ini mengajak
+      umat manusia untuk melakukan tujuh dosa besar: angkuh, iri, amarah, malas, serakah,
+      rakus, dan nafsu. Sebuah cerita fantasi yang ingin merusak kegembiraan kalian
+      pun dimulai sekarang.'
+    - http://www.solidfiles.com/v/VvPxMRwMpABQx || https://tusfiles.net/p2afcb8mazmi
+      || https://userscloud.com/4rynurcg0m7h || http://www.mirrorcreator.com/files/N4N7VF16/
+    - http://www.solidfiles.com/v/gWGMLxejrxL5Y || https://tusfiles.net/7nsd3xuofkjg
+      || https://userscloud.com/4a187y3y9iu3 || http://www.mirrorcreator.com/files/NNNOSJWE/
+    - '2017-05-05 09:19:01.524339'
+    - '2017-05-05 09:19:01.524339'
+    - '["http://acefile.co/player/12357/melody-sin-nanatsu-no-taizai-03-720pca4d7048-mkv.html"]'
+    - sin-nanatsu-no-taizai-episode-3-subtitle-indonesia
+  - - 526
+    - Kenka Banchou Otome Episode 3 Subtitle Indonesia
+    - Kenka Banchou Otome – Girl Beats Boys, Hinako Nakayama telah menghabiskan hidupnya
+      dibesarkan di panti asuhan, tanpa mengetahui keluarganya. Saat dia akan masuk
+      SMA, Hinako di datangi oleh Hikaru, lelaki yang mengklaim dirinya sebagai saudara
+      kembaranya.
+    - http://www.solidfiles.com/d/gWGN5rgjZe4Kk || http://www.datafilehost.com/d/6c1a71a2
+      || http://www72.zippyshare.com/v/dfrWOR5f/file.html || http://www.mirrorcreator.com/files/1T3AEKAU/[Melody]_Kenka_Banchou_Otome_-_03_[480p].mkv_links
+    - http://www.solidfiles.com/d/p3M5AkDKezp2p || http://www.datafilehost.com/d/6c1a71a2
+      || http://www85.zippyshare.com/v/hrlt7lqk/file.html || http://www.mirrorcreator.com/files/V8NQA7U2/[Melody]_Kenka_Banchou_Otome_-_03_[720p].mkv_links
+    - '2017-05-05 09:19:01.932885'
+    - '2017-05-05 09:19:01.932885'
+    - '["http://acefile.co/player/12046/melody_kenka_banchou_otome_-_03_720p-mkv.html"]'
+    - kenka-banchou-otome-episode-3-subtitle-indonesia
+  - - 527
+    - 'Love Kome: We Love Rice Episode 4 Subtitle Indonesia'
+    - Penjelmaan padi (dalam bahasa jepang “kome”) dalam bentuk manusia di SMA khusus
+      pria. Di Akademi Nasional Inaho, lima murid baru berusaha menggantikan kepopuleran
+      roti sebagai bahan pangan di sekolah. Murid baru itu dibentuk menjadi unit “Love
+      Rice” dan berlatih untuk tampil di “Harvest Show” untuk menunjukkan kelezatan
+      butiran padi. “Kome’dy yang hangat dengan tawa dan tekad” dijamin akan membawa
+      penonton mengungkap kelebihan nasi!
+    - http://www.solidfiles.com/d/8NxpwB54LDvVP || http://www.datafilehost.com/d/5b26b16b
+      || http://www6.zippyshare.com/v/jNSQtrtg/file.html || http://www.mirrorcreator.com/files/OXM8VLCN/%C2%AD[Melody]_Love_Kome_-_%C2%ADWe_Love_Rice_-_04_[4%C2%AD80p].mkv_links
+    - http://www.solidfiles.com/d/PMRABwNKd2wMq || http://www.datafilehost.com/d/a602911c
+      || http://www88.zippyshare.com/v/TMzqN0YP/file.html || http://www.mirrorcreator.com/files/1ZCKFP1X/%C2%AD[Melody]_Love_Kome_-_%C2%ADWe_Love_Rice_-_04_[7%C2%AD20p].mkv_links
+    - '2017-05-05 09:19:02.378670'
+    - '2017-05-05 09:19:02.378670'
+    - "[]"
+    - love-kome-we-love-rice-episode-4-subtitle-indonesia
+  - - 528
+    - Cinderella Girls Gekijou (Web) Episode 4 Subtitle Indonesia
+    - Sebuah adaptasi anime dari komik 5-panel, The IDOLM@Ster Cinderella Gekijou.
+    - |-
+      http://www.solidfiles.com/d/X27GXR76Y2QGZ
+       || http://www.datafilehost.com/d/f1b37d98
+       || http://www37.zippyshare.com/v/XtaNlteG/file.html
+       || http://www.mirrorcreator.com/files/1LLNSU6N/[Melody]_CINDERELLA_GIRLS_Theater_(Web)_-_04_[480p].mkv_links
+    - |-
+      http://www.solidfiles.com/d/m3BdPzYxZka5n
+       || http://www.datafilehost.com/d/0fce661a
+       || http://www10.zippyshare.com/v/kn5qC0LC/file.html
+       || http://www.mirrorcreator.com/files/LA55UNOM/[Melody]_CINDERELLA_GIRLS_Theater_(Web)_-_04_[720p].mkv_links
+    - '2017-05-05 09:19:02.877649'
+    - '2017-05-05 09:19:02.877649'
+    - '["http://acefile.co/player/11932/melody_cinderella_girls_theater_web_-_04_720p-mkv.html"]'
+    - cinderella-girls-gekijou-web-episode-4-subtitle-indonesia
+  - - 529
+    - Cinderella Girls Gekijou (TV) Episode 4 Subtitle Indonesia
+    - Sebuah adaptasi anime dari komik 5-panel, The IDOLM@Ster Cinderella Gekijou.
+    - |-
+      http://www.solidfiles.com/d/yqNvQMkQMRW3Z
+       || http://www.datafilehost.com/d/ccf58bcd
+       || http://www11.zippyshare.com/v/QdYxAZBY/file.html
+       || http://www.mirrorcreator.com/files/1XRHG8QF/[Melody]_CINDERELLA_GIRLS_Theater_(TV)_-_04_[480p].mkv_links
+    - |-
+      http://www.solidfiles.com/d/yqNvjy8yQ7Nvq
+       || http://www.datafilehost.com/d/9bf56dea
+       || http://www39.zippyshare.com/v/6txcrv8X/file.html
+       || http://www.mirrorcreator.com/files/QTBPUEBM/[Melody]_CINDERELLA_GIRLS_Theater_(TV)_-_04_[720p].mkv_links
+    - '2017-05-05 09:19:03.269095'
+    - '2017-05-05 09:19:03.269095'
+    - '["http://acefile.co/player/11946/melody_cinderella_girls_theater_tv_-_04_720p-mkv.html"]'
+    - cinderella-girls-gekijou-tv-episode-4-subtitle-indonesia
+  - - 530
+    - Clockwork Planet Episode 4 Subtitle Indonesia
+    - Pada suatu hari, sebuah kotak hitam tiba-tiba saja jatuh ke rumah seorang mantan
+      murid SMA bernama Naoto Miura. Di dalamnya terdapat sesosok automaton wanita
+      yang misterius. Putaran keberhasilan dan kesuksesan yang tanpa batas.
+    - |-
+      http://www.solidfiles.com/d/AkeMZmnaMXYGB
+       || http://www.datafilehost.com/d/f6ef74eb
+       || http://www66.zippyshare.com/v/V0950Mdk/file.html
+       || http://www.mirrorcreator.com/files/7FMNLU27/
+    - |-
+      http://www.solidfiles.com/d/xq48mzZ8LQ588
+       || http://www.datafilehost.com/d/08d1302a
+       || http://www78.zippyshare.com/v/Jpv9Dx5P/file.html
+       || http://www.mirrorcreator.com/files/1DALARVM/
+    - '2017-05-05 09:19:03.675049'
+    - '2017-05-05 09:19:03.675049'
+    - '["http://acefile.co/player/11727/melody-clockwork-planet-04-720p-mkv.html"]'
+    - clockwork-planet-episode-4-subtitle-indonesia
+  - - 531
+    - The King’s Avatar Episode 2 Subtitle Indonesia
+    - Pada Game Online Glory, Ye Xiu dikenal sebagai pemain hebat yang terkenal. Namun,
+      karena beberapa alasan, dia dikeluarkan dari tim. Setelah lepas dari gelar pro-nya,
+      dia mencari kerja di warnet sebagai manajer. Saat Glory mengeluarkan server
+      kesepuluhnya, dia terjun ke dalam game itu sekali lagi. Memiliki sepuluh tahun
+      pengalaman, ingatan masa lalunya, dan senjata buatannya yang belum selesai,
+      kebangkitannya meraih puncak dimulai!
+    - http://www.solidfiles.com/d/AkK67MVA8Vgqx || http://www.datafilehost.com/d/c09ac455
+      || http://www45.zippyshare.com/v/bV6Li8ac/file.html || http://www.mirrorcreator.com/files/0H9HPQYP/[Melody]The_King_s_Avatar_-_02_[480p]_0.mkv_links
+    - http://www.solidfiles.com/d/enqV7L4gqqD6q || http://www.datafilehost.com/d/6729c2b2
+      || http://www111.zippyshare.com/v/AI21Rtmt/file.html || http://www.mirrorcreator.com/files/0QWIQBT6/[Melody]The_King_s_Avatar_-_02_[720p].mkv_links
+    - '2017-05-05 09:19:04.192016'
+    - '2017-05-05 09:19:04.192016'
+    - '["http://acefile.co/player/11640/melodythe_king_s_avatar_-_02_720p-mkv.html"]'
+    - the-king-s-avatar-episode-2-subtitle-indonesia
+  - - 532
+    - Kabukibu! Episode 3 Subtitle Indonesia
+    - Menceritakan tentang kabuki, gaya klasik drama Jepang yang menggabungkan antara
+      musik, drama, dan tarian. Kurogo Kurusu, seorang siswa SMA berumur 15 tahun
+      memiliki hasrat dan ambisi yang besar untuk mendirikan klub kabuki di sekolahnya.
+      Semua pun tidak terlihat selancar yang dia kira, di saat dia sadar bahwa dia
+      harus mencari siswa lain yang mau bergabung dengan klubnya.
+    - http://www.solidfiles.com/d/xq2Nje6akzYXp || http://www.datafilehost.com/d/9df59df0
+      || http://www14.zippyshare.com/v/1EUFygG4/file.html || http://www.mirrorcreator.com/files/1DYZIRHC/[Melody]_Kabukibu__-_03_[480p].mkv_links
+    - http://www.solidfiles.com/d/4A6XLzw6RBnBV || http://www.datafilehost.com/d/f470b085
+      || http://www12.zippyshare.com/v/HBvuN3Bn/file.html || http://www.mirrorcreator.com/files/FH7R7UPZ/[Melody]_Kabukibu__-_03_[720p].mkv_links
+    - '2017-05-05 09:19:04.727994'
+    - '2017-05-05 09:19:04.727994'
+    - '["http://acefile.co/player/.html"]'
+    - kabukibu-episode-3-subtitle-indonesia
+  - - 533
+    - Frame Arms Girls Episode 3 Subtitle Indonesia
+    - Diadaptasi dari modelkit Frame Arms Girl buatan Kotobukiya. Anime ini akan berfokus
+      pada Gourai, model pertama yang pernah dirilis, bersama dengan Stylet dan Baselard.
+    - |-
+      http://www.solidfiles.com/d/xq2NdgyMjjXyM
+       || http://www.datafilehost.com/d/fc5d4a4b
+       || http://www11.zippyshare.com/v/xiNUgBFR/file.html
+       || http://www.mirrorcreator.com/files/DBR4CSOG/
+    - |-
+      http://www.solidfiles.com/d/nN6PXArkMyKdV
+       || http://www.datafilehost.com/d/ced96674
+       || http://www56.zippyshare.com/v/yRmbrpkj/file.html
+       || http://www.mirrorcreator.com/files/DXEZIRPF/
+    - '2017-05-05 09:19:05.207096'
+    - '2017-05-05 09:19:05.207096'
+    - '["http://acefile.co/player/11523/melody_frame_arms_girl_-_03_720p-mkv.html"]'
+    - frame-arms-girls-episode-3-subtitle-indonesia
+  - - 534
+    - Frame Arms Girls Episode 2 Subtitle Indonesia
+    - Diadaptasi dari modelkit Frame Arms Girl buatan Kotobukiya. Anime ini akan berfokus
+      pada Gourai, model pertama yang pernah dirilis, bersama dengan Stylet dan Baselard.
+    - http://www.solidfiles.com/d/nN6xBq2nqgdpA || http://www.datafilehost.com/d/34b4f5de
+      || http://www97.zippyshare.com/v/xyvoskjO/file.html || http://www.mirrorcreator.com/files/F5PT8BBR/
+    - http://www.solidfiles.com/d/rZDxzNjrL2WW4 || http://www.datafilehost.com/d/a4d54d7f
+      || http://www48.zippyshare.com/v/ZWEl58Ly/file.html || http://www.mirrorcreator.com/files/1FSAH5S4/
+    - '2017-05-05 09:19:05.678509'
+    - '2017-05-05 09:19:05.678509'
+    - '["http://acefile.co/player/11375/melody_frame_arms_girl_-_02_720p-mkv.html"]'
+    - frame-arms-girls-episode-2-subtitle-indonesia
+  - - 535
+    - Eromanga-sensei Episode 2 Subtitle Indonesia
+    - "“Komedi romantis saudara baru” terjadi pada Masamune Izumi, seorang penulis
+      light novel di SMA. Adik kecil Masamune yaitu Sagiri, gadis hikikomori yang
+      belum pernah meninggalkan kamarnya selama setahun. Dia selalu menyuruh kakaknya
+      untuk membuat dan membawakan makanannya saat dia menghentakkan kaki ke lantai.
+      Masamune ingin adiknya keluar dari kamar, karena hanya mereka berdua keluarga
+      yang tersisa."
+    - http://www.solidfiles.com/d/nN6AaWzqAW5pa || http://www.datafilehost.com/d/45932267
+      || http://www57.zippyshare.com/v/JQ8j9stm/file.html || http://www.mirrorcreator.com/files/1BJO18QG/
+    - http://www.solidfiles.com/d/8NDAvmxAWaqe3 || http://www.datafilehost.com/d/11750a58
+      || http://www67.zippyshare.com/v/pYejeq3b/file.html || http://www.mirrorcreator.com/files/MKGIODXQ/
+    - '2017-05-05 09:19:06.141698'
+    - '2017-05-05 09:19:06.141698'
+    - "[]"
+    - eromanga-sensei-episode-2-subtitle-indonesia
+
+---
+mimages:
+  columns:
+  - id
+  - url
+  - melody_id
+  - created_at
+  - updated_at
+  records: 
+  - - 347
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-05-05-10h05m58s10-1.jpg
+    - 516
+    - '2017-05-05 09:18:57.907498'
+    - '2017-05-05 09:18:57.907498'
+  - - 348
+    - http://melodysubs.net/wp-content/uploads/2017/05/vlcsnap-2017-05-05-10h11m21s190.jpg
+    - 517
+    - '2017-05-05 09:18:58.300414'
+    - '2017-05-05 09:18:58.300414'
+  - - 349
+    - http://melodysubs.net/wp-content/uploads/2017/05/vlcsnap-2017-05-05-10h11m43s174.jpg
+    - 518
+    - '2017-05-05 09:18:58.723780'
+    - '2017-05-05 09:18:58.723780'
+  - - 350
+    - http://melodysubs.net/wp-content/uploads/2017/05/vlcsnap-2017-05-05-10h05m15s133.jpg
+    - 519
+    - '2017-05-05 09:18:59.194318'
+    - '2017-05-05 09:18:59.194318'
+  - - 351
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-04-26-11h39m08s47.jpg
+    - 520
+    - '2017-05-05 09:18:59.629858'
+    - '2017-05-05 09:18:59.629858'
+  - - 352
+    - http://melodysubs.net/wp-content/uploads/2017/05/Melody-Saenai-Heroine-No-Sodatekata-S2-03-720p.mkv_snapshot_12.56_2017.05.02_09.36.26.jpg
+    - 521
+    - '2017-05-05 09:19:00.033840'
+    - '2017-05-05 09:19:00.033840'
+  - - 353
+    - http://melodysubs.net/wp-content/uploads/2017/05/Melody_Tsuki_ga_Kirei_-_04_720p.mkv_snapshot_07.23_2017.05.01_19.48.37.jpg
+    - 522
+    - '2017-05-05 09:19:00.471632'
+    - '2017-05-05 09:19:00.471632'
+  - - 354
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-04-30-12h46m21s39.jpg
+    - 523
+    - '2017-05-05 09:19:00.930408'
+    - '2017-05-05 09:19:00.930408'
+  - - 355
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-04-30-12h44m59s232.jpg
+    - 524
+    - '2017-05-05 09:19:01.321466'
+    - '2017-05-05 09:19:01.321466'
+  - - 356
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-04-29-10h30m49s94.jpg
+    - 525
+    - '2017-05-05 09:19:01.741543'
+    - '2017-05-05 09:19:01.741543'
+  - - 357
+    - http://melodysubs.net/wp-content/uploads/2017/04/Melody-Kenka-Banchou-Otome-03-720p.mkv_snapshot_02.16_2017.04.29_20.32.16.jpg
+    - 526
+    - '2017-05-05 09:19:02.177151'
+    - '2017-05-05 09:19:02.177151'
+  - - 358
+    - http://melodysubs.net/wp-content/uploads/2017/04/18157542_773459996153024_1904601944830972073_n.jpg
+    - 527
+    - '2017-05-05 09:19:02.677503'
+    - '2017-05-05 09:19:02.677503'
+  - - 359
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-04-29-10h01m12s217.jpg
+    - 528
+    - '2017-05-05 09:19:03.093959'
+    - '2017-05-05 09:19:03.093959'
+  - - 360
+    - http://melodysubs.net/wp-content/uploads/2017/04/vlcsnap-2017-04-29-09h54m19s203.jpg
+    - 529
+    - '2017-05-05 09:19:03.484004'
+    - '2017-05-05 09:19:03.484004'
+  - - 361
+    - http://melodysubs.net/wp-content/uploads/2017/04/thumb-6.jpg
+    - 530
+    - '2017-05-05 09:19:03.944779'
+    - '2017-05-05 09:19:03.944779'
+  - - 362
+    - http://melodysubs.net/wp-content/uploads/2017/04/MelodyThe-Kings-Avatar-02-720p.mkv_snapshot_12.06_2017.04.27_10.31.20.jpg
+    - 531
+    - '2017-05-05 09:19:04.514192'
+    - '2017-05-05 09:19:04.514192'
+  - - 363
+    - http://melodysubs.net/wp-content/uploads/2017/04/Melody-Kabukibu-03-720p.mkv_snapshot_14.01_2017.04.27_10.06.39.jpg
+    - 532
+    - '2017-05-05 09:19:05.043677'
+    - '2017-05-05 09:19:05.043677'
+  - - 364
+    - http://melodysubs.net/wp-content/uploads/2017/04/thumbb.jpg
+    - 533
+    - '2017-05-05 09:19:05.484348'
+    - '2017-05-05 09:19:05.484348'
+  - - 365
+    - http://melodysubs.net/wp-content/uploads/2017/04/thumb-frame-2.jpg
+    - 534
+    - '2017-05-05 09:19:05.970494'
+    - '2017-05-05 09:19:05.970494'
+  - - 366
+    - http://melodysubs.net/wp-content/uploads/2017/04/HorribleSubs-Eromanga-sensei-02-720p.mkv_snapshot_00.46_2017.04.25_18.12.23.jpg
+    - 535
+    - '2017-05-05 09:19:06.416758'
+    - '2017-05-05 09:19:06.416758'
+
+---
+movieus:
+  columns:
+  - id
+  - title
+  - gstream
+  - nstream
+  - lstream
+  - mstream
+  - created_at
+  - updated_at
+  - slug
+  records: 
+  - - 61
+    - 'Boruto: Naruto Next Generations Episode 4 Subtitle Indonesia'
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgOEhfblVuQlFKOFE/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-bvvok85gctiw.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-55p53dyae3lg.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-2i900fwbf9sc.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:30.004158'
+    - '2017-04-26 13:53:30.004158'
+    - 
+  - - 62
+    - Fukumenkei Noise Episode 3 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgZ2JFd3N2RjhZdVk/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-ad7u5v8thihg.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-jl6wqwd8pj52.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-skqj5jip5f8u.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:30.541753'
+    - '2017-04-26 13:53:30.541753'
+    - 
+  - - 63
+    - Rokudenashi Majutsu Koushi to Akashic Records Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgMWRiQ3A1OVdsbUU/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-h76zt145rbp6.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-d07gfskaxtc0.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-xzwz4zccew2t.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:30.988996'
+    - '2017-04-26 13:53:30.988996'
+    - 
+  - - 64
+    - Ao no Exorcist – Kyoto Fujouou-hen OVA Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgVHllOVBXeVlweEE/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-t7b91tkti2wu.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-97ll3i1y6skt.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-03nzzzk75na9.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:31.470910'
+    - '2017-04-26 13:53:31.470910'
+    - 
+  - - 65
+    - Zero kara Hajimeru Mahou no Sho Episode 3 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgMUxwcUwyVEhVMTQ/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-x9ixhdo09wos.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-zrjb9gli0red.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-kyb0s6g39wdj.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:31.848426'
+    - '2017-04-26 13:53:31.848426'
+    - 
+  - - 66
+    - Frame Arms Girl Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgaUo2UjhsZXVpdGs/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-yv332xzkgi53.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-cvyufmxmwdjb.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-5cngsrbzeqo3.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:32.263524'
+    - '2017-04-26 13:53:32.263524'
+    - 
+  - - 67
+    - Tsugumomo Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgQ0E3dkpRRG1JTGs/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-35a2o4w9aum8.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-tle280ko1pgf.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-hi5vxzldhiqm.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:32.682029'
+    - '2017-04-26 13:53:32.682029'
+    - 
+  - - 68
+    - 'Monster Hunter Stories: Ride On Episode 29 Subtitle Indonesia'
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgUjFlREdaNHVDVTQ/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-c2iqaucj0uea.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-8ybd6uvu3vjg.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-zdgv1pfs6igv.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:33.066204'
+    - '2017-04-26 13:53:33.066204'
+    - 
+  - - 69
+    - Tiger Mask W Episode 28 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgeXB0Y0s4NG82blE/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-3t146zzqgb5p.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-u00hhrvj5zy8.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-fxc4950bwzwz.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:33.462637'
+    - '2017-04-26 13:53:33.462637'
+    - 
+  - - 70
+    - One Piece Episode 785 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgQmZTNF8yTUxEWnM/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-24d9ltrkyx25.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-ojopfv47v7dn.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-lu7eglsyftb6.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:33.865390'
+    - '2017-04-26 13:53:33.865390'
+    - 
+  - - 71
+    - Dragon Ball Super Episode 87 Subtitle Indonesia
+    - http://www.videonest.net/embed-qfrejabqwxr3.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-0w5vtjktciy3.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-libbvzf5rg6k.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - 
+    - '2017-04-26 13:53:34.272411'
+    - '2017-04-26 13:53:34.272411'
+    - 
+  - - 72
+    - Re:Creators Episode 3 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgWFBUTWFEeWZGSk0/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-i0o1rvbcv3kh.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-l7tdaesqlb29.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-sw8nyeguheog.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:34.638975'
+    - '2017-04-26 13:53:34.638975'
+    - 
+  - - 73
+    - Eromanga-sensei Episode 3 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgcXVDMERic1p3Wms/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-o7wmzt24gjfo.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-gv2t5jc6a6bw.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-2it1d1gq46j5.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:35.001651'
+    - '2017-04-26 13:53:35.001651'
+    - 
+  - - 74
+    - Granblue Fantasy The Animation Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgRklFUE5KOFd1WEE/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-n8r0jvm3myar.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-0yibeaf42wqp.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-kg99js2l84ug.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:35.396710'
+    - '2017-04-26 13:53:35.396710'
+    - 
+  - - 75
+    - Shingeki no Kyojin Season 2 Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B5Tlcug1qsdgVWdLUnl4Zl9XWms/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-y6oxtkkuceg9.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-0wrzcf4ljq6u.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-ui2kzjcm9ut1.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-04-26 13:53:35.840535'
+    - '2017-04-26 13:53:35.840535'
+    - 
+  - - 76
+    - Clockwork Planet Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJZjFZZG53ZlNRdjg/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-j0dhurz1zzmy.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-4r57bi45vy6h.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-1uuvh0elpylt.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:07.001689'
+    - '2017-05-05 09:19:07.001689'
+    - clockwork-planet-episode-5-subtitle-indonesia
+  - - 77
+    - Renai Boukun Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJVDRsS05RYXh2RFU/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-owmynv1xgcf0.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-q0qamipfp0rd.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-jtkm2wkpfa77.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:07.517984'
+    - '2017-05-05 09:19:07.517984'
+    - renai-boukun-episode-5-subtitle-indonesia
+  - - 78
+    - Saekano Season 2 Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJV0kzVDlNRHNkMzA/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-oxr148m2r48w.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-qvggt42o0ypd.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-kobjh4tmb1ng.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:07.880904'
+    - '2017-05-05 09:19:07.880904'
+    - saekano-season-2-episode-4-subtitle-indonesia
+  - - 79
+    - Tsuki ga Kirei Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJd2U1ZHFGQXZwckU/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-kzdng34cu9pb.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-i3vlnj9r6p7n.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-jtg341a1w6dd.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:08.266085'
+    - '2017-05-05 09:19:08.266085'
+    - tsuki-ga-kirei-episode-5-subtitle-indonesia
+  - - 80
+    - Busou Shoujo Machiavellianism Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJTmlJS2pNNi02WTg/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-1po8f2c7c3hq.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-8r2cxk5qf6ym.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-d7rj09w3pwm5.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:08.661090'
+    - '2017-05-05 09:19:08.661090'
+    - busou-shoujo-machiavellianism-episode-5-subtitle-indonesia
+  - - 81
+    - Sagrada Reset Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJQk1MdTc3M3ZGbHc/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-yqive1qyuhjh.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-5z5xgdrs3sw1.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-aozt2aarp6bi.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:09.023005'
+    - '2017-05-05 09:19:09.023005'
+    - sagrada-reset-episode-5-subtitle-indonesia
+  - - 82
+    - Sakura Quest Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJT0JmUF96SHc1a28/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-vrk04a9emoic.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-jawpiv538kkz.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-seip99pcne8t.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:09.375836'
+    - '2017-05-05 09:19:09.375836'
+    - sakura-quest-episode-5-subtitle-indonesia
+  - - 83
+    - 'Boruto: Naruto Next Generations Episode 5 Subtitle Indonesia'
+    - https://drive.google.com/file/d/0B48_HBB6iEEJeVV3RkxSOHVyNTg/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-83gr1zg0egmq.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-hw00s7qytwz5.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-wb8hmvlnmaa5.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:09.742048'
+    - '2017-05-05 09:19:09.742048'
+    - boruto-naruto-next-generations-episode-5-subtitle-indonesia
+  - - 84
+    - Oushitsu Kyoushi Haine Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJV0FHcVJYTE1QdGc/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-lp3gho5ehhja.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-ui2taemy38f8.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-19xmor57ijnf.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:10.123357'
+    - '2017-05-05 09:19:10.123357'
+    - oushitsu-kyoushi-haine-episode-5-subtitle-indonesia
+  - - 85
+    - ID-0 Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJSHMtTGxkOUY5Z28/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-5nk177po3adh.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-8ofylytqk3xw.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-wsmpouxhnyhg.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:10.474133'
+    - '2017-05-05 09:19:10.474133'
+    - id-0-episode-4-subtitle-indonesia
+  - - 86
+    - Fukumenkei Noise Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJWVRrV3BfVnFEeU0/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-b49lkabhv2e8.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-0p6559fphtj1.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-q1dnufwyt04s.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:10.857546'
+    - '2017-05-05 09:19:10.857546'
+    - fukumenkei-noise-episode-4-subtitle-indonesia
+  - - 87
+    - Rokudenashi Majutsu Koushi to Akashic Records Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJWDB5Z19fbHRqV1k/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-zfvvicnwyxxx.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-mbv8vjxaf29i.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-ozn2wvk94av9.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:11.211414'
+    - '2017-05-05 09:19:11.211414'
+    - rokudenashi-majutsu-koushi-to-akashic-records-episode-5-subtitle-indonesia
+  - - 88
+    - Frame Arms Girl Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJQVVMeHBqelBIR0U/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-u3wx6df8dne9.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-7bonmlj6o5ux.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-30ale7e6wa67.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:11.585031'
+    - '2017-05-05 09:19:11.585031'
+    - frame-arms-girl-episode-5-subtitle-indonesia
+  - - 89
+    - Zero kara Hajimeru Mahou no Sho Episode 4 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJN1ZfVkV3c05xekU/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-rfflaqeerzrg.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-udndx6pu754k.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-89le8mtf97pl.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:11.983378'
+    - '2017-05-05 09:19:11.983378'
+    - zero-kara-hajimeru-mahou-no-sho-episode-4-subtitle-indonesia
+  - - 90
+    - Tsugumomo Episode 5 Subtitle Indonesia
+    - https://drive.google.com/file/d/0B48_HBB6iEEJeDdDVUpLUFU2cUU/preview?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - http://www.videonest.net/embed-bwcak5udgkot.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://vidlox.tv/embed-48gqs3oqqyay.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - https://www.mp4upload.com/embed-wlko2smncjfs.html?ap=0&autoplay=0&autoStart=false&player_autoStart=false
+    - '2017-05-05 09:19:12.368503'
+    - '2017-05-05 09:19:12.368503'
+    - tsugumomo-episode-5-subtitle-indonesia
+
+---
+oimages:
+  columns:
+  - id
+  - url
+  - oploverz_id
+  - created_at
+  - updated_at
+  records: 
+  - - 667
+    - http://www.oploverz.in/wp-content/uploads/2017/05/2-140x78.jpg
+    - 723
+    - '2017-05-05 09:16:22.011984'
+    - '2017-05-05 09:16:22.011984'
+  - - 668
+    - http://www.oploverz.in/wp-content/uploads/2017/05/11-140x78.jpg
+    - 724
+    - '2017-05-05 09:16:23.376343'
+    - '2017-05-05 09:16:23.376343'
+  - - 669
+    - http://www.oploverz.in/wp-content/uploads/2017/05/1-140x78.jpg
+    - 725
+    - '2017-05-05 09:16:24.530202'
+    - '2017-05-05 09:16:24.530202'
+  - - 670
+    - http://www.oploverz.in/wp-content/uploads/2017/04/125-140x78.jpg
+    - 726
+    - '2017-05-05 09:16:25.692168'
+    - '2017-05-05 09:16:25.692168'
+  - - 671
+    - http://www.oploverz.in/wp-content/uploads/2017/04/88-140x78.jpg
+    - 727
+    - '2017-05-05 09:16:26.848231'
+    - '2017-05-05 09:16:26.848231'
+  - - 672
+    - http://www.oploverz.in/wp-content/uploads/2017/04/124-140x78.jpg
+    - 728
+    - '2017-05-05 09:16:28.044418'
+    - '2017-05-05 09:16:28.044418'
+  - - 673
+    - http://www.oploverz.in/wp-content/uploads/2017/04/123-140x78.jpg
+    - 729
+    - '2017-05-05 09:16:29.291675'
+    - '2017-05-05 09:16:29.291675'
+  - - 674
+    - http://www.oploverz.in/wp-content/uploads/2017/04/122-140x78.jpg
+    - 730
+    - '2017-05-05 09:16:30.495372'
+    - '2017-05-05 09:16:30.495372'
+  - - 675
+    - http://www.oploverz.in/wp-content/uploads/2017/04/121-140x78.jpg
+    - 731
+    - '2017-05-05 09:16:31.759151'
+    - '2017-05-05 09:16:31.759151'
+  - - 676
+    - http://www.oploverz.in/wp-content/uploads/2017/04/120-140x78.jpg
+    - 732
+    - '2017-05-05 09:16:32.985053'
+    - '2017-05-05 09:16:32.985053'
+  - - 677
+    - http://www.oploverz.in/wp-content/uploads/2017/04/119-140x78.jpg
+    - 733
+    - '2017-05-05 09:16:34.300426'
+    - '2017-05-05 09:16:34.300426'
+  - - 678
+    - http://www.oploverz.in/wp-content/uploads/2017/04/118-140x78.jpg
+    - 734
+    - '2017-05-05 09:16:35.522226'
+    - '2017-05-05 09:16:35.522226'
+
+---
+oploverzs:
+  columns:
+  - id
+  - title
+  - sinops
+  - small
+  - medium
+  - created_at
+  - updated_at
+  - visit_count
+  - slug
+  records: 
+  - - 723
+    - Sagrada Reset 05 Subtitle Indonesia
+    - Hampir setengah dari penduduk kota Sakurada memiliki kekuatan unik. Salah satunya
+      adalah bisa melakukan pengulangan waktu kembali ke suatu titik waktu di masa
+      lalu. Ada sebuah kelompok yang bernama “Kanrikyoku” yang mengendalikan dan mengawasi
+      penggunaan kekuatan ini. Asai Kei dan Haruki Misora meerupakan anggota sebuah
+      klub yang bernama “Houshi” yang menjalankan segala misi yang diberikan oleh
+      Kanrikyouku. Misora memiliki kemampuan untuk mereset waktu kembali ke tiga hari
+      yang lalu. Yang artinya semua kejadian dan ingatan setelah tiga hari yang lalu
+      yang akan hilang. Sedangkan Kei memiliki kemampuan untuk mengingat masa lalu.
+      Meski Misora menggunakan kekuatannya untuk mereset waktu, Kei tetap masih bisa
+      mengingat tiga hari yang telah direset Misora. Kombinasi dari kekuatan mereka
+      lah yang akan menyelesaikan berbagai misi yang diberikan oleh Kanrikyoku.  
+    - http://susutin.com/uU5Lk | http://susutin.com/59zWX | http://susutin.com/1glTe
+      | http://susutin.com/JVgln | http://susutin.com/jjgUB
+    - http://susutin.com/tTPxO | http://susutin.com/IaYBe | http://susutin.com/ZX6Yg
+      | http://susutin.com/ng2zO | http://susutin.com/dwOPG
+    - '2017-05-05 09:16:21.771732'
+    - '2017-05-05 09:16:21.771732'
+    - 0
+    - sagrada-reset-05-subtitle-indonesia
+  - - 724
+    - 'Boruto: Naruto Next Generations 05 Subtitle Indonesia'
+    - Naruto adalah seorang ninja muda yang selalu berbuat onar. Meski begitu, dia
+      berhasil menggapai cita-citanya menjadi ninja terhbat di desa dan wajahnya terukir
+      menjadi patung Hokage. Namun serial ini tak lagi mengisahkannya …, ninja generasi
+      baru telah memasuki panggung utama, yang berpusat pada anak Naruto sendiri yaitu
+      Boruto!
+    - http://susutin.com/r2tS4 | http://susutin.com/uCiSH | http://susutin.com/isEFQ
+      | http://susutin.com/aCwSa | http://susutin.com/ZOptB
+    - http://susutin.com/Yvci1 | http://susutin.com/ITeiS | http://susutin.com/glERF
+      | http://susutin.com/wlGlE | http://susutin.com/aRNTP
+    - '2017-05-05 09:16:22.990684'
+    - '2017-05-05 09:16:22.990684'
+    - 0
+    - boruto-naruto-next-generations-05-subtitle-indonesia
+  - - 725
+    - 'Yowamushi Pedal: New Generation 17 Subtitle Indonesia'
+    - Musim ketiga dari serial anime Yowamushi Pedal.
+    - http://susutin.com/KuIFz | http://susutin.com/XsKMq | http://susutin.com/PYtzP
+      | http://susutin.com/BDfj0 | http://susutin.com/ixOHq
+    - http://susutin.com/H0ox1 | http://susutin.com/Lf8DO | http://susutin.com/rgmsi
+      | http://susutin.com/cub3e | http://susutin.com/QRsVk
+    - '2017-05-05 09:16:24.096315'
+    - '2017-05-05 09:16:24.096315'
+    - 0
+    - yowamushi-pedal-new-generation-17-subtitle-indonesia
+  - - 726
+    - One Piece Episode 786 Subtitle Indonesia
+    - Bercerita tetang seorang laki-laki bernama Monkey D. Luffy,yang menentang arti
+      dari gelar bajak laut. Daripada kesan nama besar, kejahatan, kekerasan, dia
+      lebih terlihat seperti bajak laut rendahan yang suka bersenang-senang, alasan
+      Luffy menjadi bajak laut adalah tekadnya untuk berpetualang di lautan yang menyenangkan
+      dan bertemu orang-orang baru dan menarik, serta bersama-sama mencari One Piece.
+      Mengikuti jejak pahlawan masa kecilnya, Luffy dan krunya mengarungi Grand Line,
+      melalui petualangan gila, misteri gelap dan memerangi musuh yang kuat, semua
+      itu dilakukan untuk mendapatkan One Piece. 
+    - http://susutin.com/3kdxQ | http://susutin.com/DjPkp | http://susutin.com/KrxXe
+      | http://susutin.com/RvTOR | http://susutin.com/iY3Ul
+    - http://susutin.com/gSGfF | http://susutin.com/Oq50T | http://susutin.com/R7cA5
+      | http://susutin.com/BhuAa | http://susutin.com/54hPM
+    - '2017-05-05 09:16:25.242630'
+    - '2017-05-05 09:16:25.242630'
+    - 0
+    - one-piece-episode-786-subtitle-indonesia
+  - - 727
+    - Dragon Ball Super 88 Subtitle Indonesia
+    - Cerita dari Dragon Ball Super dimulai setelah pertarungan sengit Goku melawan
+      Majin Buu demi menyelamatkan alam semesta
+    - http://susutin.com/OusSv | http://susutin.com/eSw6N | http://susutin.com/2hdRL
+    - http://susutin.com/wxvOk | http://susutin.com/4w22A | http://susutin.com/bQLBx
+    - '2017-05-05 09:16:26.342657'
+    - '2017-05-05 09:16:26.342657'
+    - 0
+    - dragon-ball-super-88-subtitle-indonesia
+  - - 728
+    - Tales of Zestiria the X S2 13 Subtitle Indonesia [END]
+    - Musim kedua dari anime Tales of Zestiria the X.
+    - http://susutin.com/fyM29 | http://susutin.com/tPKvP | http://susutin.com/1ZWzj
+      | http://susutin.com/7YGQp | http://susutin.com/kxvEa
+    - http://susutin.com/RM5sY | http://susutin.com/xMgdy | http://susutin.com/LNtQ8
+      | http://susutin.com/IjFLI | http://susutin.com/E8QTP
+    - '2017-05-05 09:16:27.423174'
+    - '2017-05-05 09:16:27.423174'
+    - 0
+    - tales-of-zestiria-the-x-s2-13-subtitle-indonesia-end
+  - - 729
+    - Shingeki no Kyojin S2 05 Subtitle Indonesia
+    - Musim kedua dari serial anime Shingeki no Kyojin, yang akan melanjutkan cerita
+      setelah pertempuran dua raksasa di dalam Tembok Shina, dan munculnya misteri
+      tentang tubuh raksasa yang berada di dalam tembok yang selama ini melindungi
+      umat manusia, yang berarti selama ini manusia dilindungi oleh raksasa dari serangan
+      para raksasa.
+    - http://susutin.com/Deoqz | http://susutin.com/lJkqV | http://susutin.com/UaWUo
+      | http://susutin.com/CYH09 | http://susutin.com/dQAzP
+    - http://susutin.com/WxszE | http://susutin.com/PQCQd | http://susutin.com/ushSn
+      | http://susutin.com/H2rMR | http://susutin.com/5mbUI
+    - '2017-05-05 09:16:28.570197'
+    - '2017-05-05 09:16:28.570197'
+    - 0
+    - shingeki-no-kyojin-s2-05-subtitle-indonesia
+  - - 730
+    - Boku no Hero Academia S2 05 Subtitle Indonesia
+    - Musim kedua dari serial anime Boku no Hero Academia.
+    - http://susutin.com/Sk1So | http://susutin.com/LXOiw | http://susutin.com/ZE3YU
+      | http://susutin.com/2gkON | http://susutin.com/ufhMJ
+    - http://susutin.com/sYHWs | http://susutin.com/FNPR9 | http://susutin.com/cGrWo
+      | http://susutin.com/5hbdo | http://susutin.com/mwp7N
+    - '2017-05-05 09:16:29.768404'
+    - '2017-05-05 09:16:29.768404'
+    - 0
+    - boku-no-hero-academia-s2-05-subtitle-indonesia
+  - - 731
+    - One Piece Episode 118 Subtitle Indonesia [REMASTERED]
+    - Bercerita tetang seorang laki-laki bernama Monkey D. Luffy,yang menentang arti
+      dari gelar bajak laut. Daripada kesan nama besar, kejahatan, kekerasan, dia
+      lebih terlihat seperti bajak laut rendahan yang suka bersenang-senang, alasan
+      Luffy menjadi bajak laut adalah tekadnya untuk berpetualang di lautan yang menyenangkan
+      dan bertemu orang-orang baru dan menarik, serta bersama-sama mencari One Piece.
+      Mengikuti jejak pahlawan masa kecilnya, Luffy dan krunya mengarungi Grand Line,
+      melalui petualangan gila, misteri gelap dan memerangi musuh yang kuat, semua
+      itu dilakukan untuk mendapatkan One Piece. 
+    - http://susutin.com/wxpzR | http://susutin.com/znmAO | http://susutin.com/BQVBZ
+      | http://susutin.com/gZfUk | http://susutin.com/KAAxv
+    - http://susutin.com/MW2hN | http://susutin.com/BwW7a | http://susutin.com/lRIoA
+      | http://susutin.com/HhFoR | http://susutin.com/RIJtH
+    - '2017-05-05 09:16:30.977889'
+    - '2017-05-05 09:16:30.977889'
+    - 0
+    - one-piece-episode-118-subtitle-indonesia-remastered
+  - - 732
+    - Sagrada Reset 04 Subtitle Indonesia
+    - Hampir setengah dari penduduk kota Sakurada memiliki kekuatan unik. Salah satunya
+      adalah bisa melakukan pengulangan waktu kembali ke suatu titik waktu di masa
+      lalu. Ada sebuah kelompok yang bernama “Kanrikyoku” yang mengendalikan dan mengawasi
+      penggunaan kekuatan ini. Asai Kei dan Haruki Misora meerupakan anggota sebuah
+      klub yang bernama “Houshi” yang menjalankan segala misi yang diberikan oleh
+      Kanrikyouku. Misora memiliki kemampuan untuk mereset waktu kembali ke tiga hari
+      yang lalu. Yang artinya semua kejadian dan ingatan setelah tiga hari yang lalu
+      yang akan hilang. Sedangkan Kei memiliki kemampuan untuk mengingat masa lalu.
+      Meski Misora menggunakan kekuatannya untuk mereset waktu, Kei tetap masih bisa
+      mengingat tiga hari yang telah direset Misora. Kombinasi dari kekuatan mereka
+      lah yang akan menyelesaikan berbagai misi yang diberikan oleh Kanrikyoku.  
+    - http://susutin.com/gjQP4
+    - http://susutin.com/4E0uK
+    - '2017-05-05 09:16:32.159932'
+    - '2017-05-05 09:16:32.159932'
+    - 0
+    - sagrada-reset-04-subtitle-indonesia
+  - - 733
+    - 'Boruto: Naruto Next Generations 04 Subtitle Indonesia'
+    - Naruto adalah seorang ninja muda yang selalu berbuat onar. Meski begitu, dia
+      berhasil menggapai cita-citanya menjadi ninja terhbat di desa dan wajahnya terukir
+      menjadi patung Hokage. Namun serial ini tak lagi mengisahkannya …, ninja generasi
+      baru telah memasuki panggung utama, yang berpusat pada anak Naruto sendiri yaitu
+      Boruto!
+    - http://susutin.com/w8ZFb
+    - http://susutin.com/poOBg
+    - '2017-05-05 09:16:33.324332'
+    - '2017-05-05 09:16:33.324332'
+    - 0
+    - boruto-naruto-next-generations-04-subtitle-indonesia
+  - - 734
+    - 'Yowamushi Pedal: New Generation 16 Subtitle Indonesia'
+    - Musim ketiga dari serial anime Yowamushi Pedal.
+    - http://susutin.com/x3WKb
+    - http://susutin.com/oLaf5
+    - '2017-05-05 09:16:34.577018'
+    - '2017-05-05 09:16:34.577018'
+    - 0
+    - yowamushi-pedal-new-generation-16-subtitle-indonesia
+
+---
+ostreams:
+  columns:
+  - id
+  - link
+  - oploverz_id
+  - created_at
+  - updated_at
+  records: 
+  - - 25
+    - http://www.blogger.com/video-play.mp4?contentId=e35e239a3da4e947
+    - 723
+    - '2017-05-05 09:16:22.158396'
+    - '2017-05-05 09:16:22.158396'
+  - - 26
+    - http://www.blogger.com/video-play.mp4?contentId=296a22d338011531
+    - 724
+    - '2017-05-05 09:16:23.188717'
+    - '2017-05-05 09:16:23.188717'
+  - - 27
+    - http://www.blogger.com/video-play.mp4?contentId=647e480794bd71d9
+    - 725
+    - '2017-05-05 09:16:24.287075'
+    - '2017-05-05 09:16:24.287075'
+  - - 28
+    - http://www.blogger.com/video-play.mp4?contentId=19be1c093953c9ee
+    - 726
+    - '2017-05-05 09:16:25.422063'
+    - '2017-05-05 09:16:25.422063'
+  - - 29
+    - http://www.blogger.com/video-play.mp4?contentId=6dde761c6489a471
+    - 727
+    - '2017-05-05 09:16:26.515394'
+    - '2017-05-05 09:16:26.515394'
+  - - 30
+    - http://www.blogger.com/video-play.mp4?contentId=6071618012fa4b17
+    - 728
+    - '2017-05-05 09:16:27.645677'
+    - '2017-05-05 09:16:27.645677'
+  - - 31
+    - http://www.blogger.com/video-play.mp4?contentId=f141fdec74bea8e2
+    - 729
+    - '2017-05-05 09:16:28.856279'
+    - '2017-05-05 09:16:28.856279'
+  - - 32
+    - http://www.blogger.com/video-play.mp4?contentId=46304dd48e540a0f
+    - 730
+    - '2017-05-05 09:16:29.967256'
+    - '2017-05-05 09:16:29.967256'
+  - - 33
+    - http://www.blogger.com/video-play.mp4?contentId=a05e2626d924bbe8
+    - 731
+    - '2017-05-05 09:16:31.197695'
+    - '2017-05-05 09:16:31.197695'
+  - - 34
+    - http://www.blogger.com/video-play.mp4?contentId=25a8afce9bac07f6
+    - 732
+    - '2017-05-05 09:16:32.351832'
+    - '2017-05-05 09:16:32.351832'
+  - - 35
+    - http://www.blogger.com/video-play.mp4?contentId=d8feea7b5fbc67d7
+    - 733
+    - '2017-05-05 09:16:33.557314'
+    - '2017-05-05 09:16:33.557314'
+  - - 36
+    - http://www.blogger.com/video-play.mp4?contentId=ba1b21e2b872bbe1
+    - 734
+    - '2017-05-05 09:16:34.776948'
+    - '2017-05-05 09:16:34.776948'
+
+---
+sames:
+  columns:
+  - id
+  - title
+  - lsmall1
+  - lsmall2
+  - lmedium1
+  - lmedium2
+  - created_at
+  - updated_at
+  - slug
+  records: 
+  - - 38
+    - Clockwork Planet Episode 05 Subtitle Indonesia
+    - http://coeg.in/UI9K6 || http://coeg.in/wd6aG || http://coeg.in/d1fZ3 || http://coeg.in/SCR2O
+      || http://coeg.in/XmwWq || http://coeg.in/g4L5B
+    - http://coeg.in/D9Ke1 || http://coeg.in/1fCzy || http://coeg.in/ifMwj || http://coeg.in/bfoQ9
+      || http://coeg.in/f69Vr || http://coeg.in/C4d1L
+    - http://coeg.in/9BKiY || http://coeg.in/8VALT || http://coeg.in/Er4NC || http://coeg.in/L814z
+      || http://coeg.in/tZii8 || http://coeg.in/zhRSv
+    - http://coeg.in/FihsY || http://coeg.in/3216Z || http://coeg.in/iz9mW || http://coeg.in/JxYTD
+      || http://coeg.in/9rnb0 || http://coeg.in/35Hjv
+    - '2017-05-05 09:18:32.299155'
+    - '2017-05-05 09:18:32.299155'
+    - clockwork-planet-episode-05-subtitle-indonesia
+  - - 39
+    - Renai Boukun Episode 05 Subtitle Indonesia
+    - http://coeg.in/Y0di8 || http://coeg.in/0g4Pm || http://coeg.in/XoiK4 || http://coeg.in/OiH1I
+      || http://coeg.in/oKM74 || http://coeg.in/5YGz9
+    - http://coeg.in/UDWKh || http://coeg.in/XgQnB || http://coeg.in/aQU9r || http://coeg.in/Um2an
+      || http://coeg.in/TeBL9 || http://coeg.in/SP5zl
+    - http://coeg.in/LO5dx || http://coeg.in/fFeJR || http://coeg.in/jV4dk || http://coeg.in/Kc5cM
+      || http://coeg.in/pOmTy || http://coeg.in/3FjOS
+    - http://coeg.in/mRrrJ || http://coeg.in/idFE9 || http://coeg.in/J72lp || http://coeg.in/hMvsy
+      || http://coeg.in/KvLab || http://coeg.in/KvLab
+    - '2017-05-05 09:18:32.750889'
+    - '2017-05-05 09:18:32.750889'
+    - renai-boukun-episode-05-subtitle-indonesia
+  - - 40
+    - Saekano Season 2 Episode 04 Subtitle Indonesia
+    - http://coeg.in/fY9tz || http://coeg.in/8P65A || http://coeg.in/4CSHz || http://coeg.in/a6lWH
+      || http://coeg.in/sBhYw || http://coeg.in/eY5D1
+    - http://coeg.in/d9InP || http://coeg.in/bVrgL || http://coeg.in/uYdVY || http://coeg.in/1haYP
+      || http://coeg.in/Kun0j || http://coeg.in/f0ikk
+    - http://coeg.in/0YuvM || http://coeg.in/lJYs0 || http://coeg.in/v3jx1 || http://coeg.in/mS8Jb
+      || http://coeg.in/mr6bE || http://coeg.in/iHAHj
+    - http://coeg.in/XifoK || http://coeg.in/z1zSz || http://coeg.in/6DDYI || http://coeg.in/Mn43Y
+      || http://coeg.in/XhO27 || http://coeg.in/UnDeU
+    - '2017-05-05 09:18:33.138340'
+    - '2017-05-05 09:18:33.138340'
+    - saekano-season-2-episode-04-subtitle-indonesia
+  - - 41
+    - Tsuki ga Kirei Episode 05 Subtitle Indonesia
+    - http://coeg.in/2MrCp || http://coeg.in/MBI1F || http://coeg.in/C9dJD || http://coeg.in/bb8Gx
+      || http://coeg.in/Q1vgo || http://coeg.in/e4Snr
+    - http://coeg.in/ffDo9 || http://coeg.in/Qps6f || http://coeg.in/r9Zng || http://coeg.in/OmrMK
+      || http://coeg.in/GwCsL || http://coeg.in/5nu5w
+    - http://coeg.in/nhZ09 || http://coeg.in/eXp1J || http://coeg.in/nR83J || http://coeg.in/U61bE
+      || http://coeg.in/4Ys6V || http://coeg.in/lfSYA
+    - http://coeg.in/RH1m5 || http://coeg.in/0EQn5 || http://coeg.in/c0FLd || http://coeg.in/l3Ziy
+      || http://coeg.in/cZQLR || http://coeg.in/zgH1N
+    - '2017-05-05 09:18:33.489209'
+    - '2017-05-05 09:18:33.489209'
+    - tsuki-ga-kirei-episode-05-subtitle-indonesia
+  - - 42
+    - Busou Shoujo Machiavellianism Episode 05 Subtitle Indonesia
+    - http://coeg.in/gohVk || http://coeg.in/pqBIF || http://coeg.in/nLrtb || http://coeg.in/3GJbv
+      || http://coeg.in/77tl1 || http://coeg.in/gopPO
+    - http://coeg.in/vU5b7 || http://coeg.in/G2WzI || http://coeg.in/Cht4n || http://coeg.in/7hlCd
+      || http://coeg.in/74Rip || http://coeg.in/AqFee
+    - http://coeg.in/qrusl || http://coeg.in/IUTdf || http://coeg.in/V6u2H || http://coeg.in/nDdg3
+      || http://coeg.in/sJM31 || http://coeg.in/iDb7L
+    - http://coeg.in/w2euN || http://coeg.in/mnauN || http://coeg.in/uF7lJ || http://coeg.in/YOLhO
+      || http://coeg.in/7cVs3 || http://coeg.in/czFbU
+    - '2017-05-05 09:18:33.880436'
+    - '2017-05-05 09:18:33.880436'
+    - busou-shoujo-machiavellianism-episode-05-subtitle-indonesia
+  - - 43
+    - Sagrada Reset Episode 05 Subtitle Indonesia
+    - http://coeg.in/XCTM8 || http://coeg.in/UHPgZ || http://coeg.in/aN8u0 || http://coeg.in/eRnQu
+      || http://coeg.in/8cwHZ || http://coeg.in/flaKv
+    - http://coeg.in/WK6V5 || http://coeg.in/tkVRJ || http://coeg.in/sEPvf || http://coeg.in/vBrn9
+      || http://coeg.in/hi4Dd || http://coeg.in/qdibh
+    - http://coeg.in/CcRuc || http://coeg.in/NR27b || http://coeg.in/xPZuU || http://coeg.in/xCZWg
+      || http://coeg.in/BrI03 || http://coeg.in/ia9r2
+    - http://coeg.in/f0swu || http://coeg.in/oxx4d || http://coeg.in/T9PLY || http://coeg.in/OVFQs
+      || http://coeg.in/8MykG || http://coeg.in/9MeTl
+    - '2017-05-05 09:18:34.280816'
+    - '2017-05-05 09:18:34.280816'
+    - sagrada-reset-episode-05-subtitle-indonesia
+  - - 44
+    - Sakura Quest Episode 05 Subtitle Indonesia
+    - http://coeg.in/Wluua || http://coeg.in/HS7qU || http://coeg.in/M3A4y || http://coeg.in/gyvjx
+      || http://coeg.in/gHxg4 || http://coeg.in/AIaw5
+    - http://coeg.in/aTcSo || http://coeg.in/ThBN9 || http://coeg.in/9uAoI || http://coeg.in/PVOqX
+      || http://coeg.in/e9Nd4 || http://coeg.in/96yW5
+    - http://coeg.in/GpRjR || http://coeg.in/5LPIe || http://coeg.in/eSJ0J || http://coeg.in/Bt6OQ
+      || http://coeg.in/6TO2r || http://coeg.in/if1gX
+    - http://coeg.in/2iLSX || http://coeg.in/jdhzo || http://coeg.in/9uAoI || http://coeg.in/bxTzO
+      || http://coeg.in/5mOxv || http://coeg.in/96yW5
+    - '2017-05-05 09:18:34.666707'
+    - '2017-05-05 09:18:34.666707'
+    - sakura-quest-episode-05-subtitle-indonesia
+
+---
+timages:
+  columns:
+  - id
+  - url
+  - tonan_id
+  - created_at
+  - updated_at
+  records: 
+  - - 105
+    - http://tontonanime.com/gambar/[2017.05.05_07.00.50].jpg
+    - 158
+    - '2017-05-05 09:18:42.867322'
+    - '2017-05-05 09:18:42.867322'
+  - - 106
+    - http://tontonanime.com/gambar/tsuki5.png
+    - 159
+    - '2017-05-05 09:18:43.363144'
+    - '2017-05-05 09:18:43.363144'
+  - - 107
+    - http://tontonanime.com/gambar/[2017.05.04_06.43.44].jpg
+    - 160
+    - '2017-05-05 09:18:43.809654'
+    - '2017-05-05 09:18:43.809654'
+  - - 108
+    - http://tontonanime.com/gambar/[2017.05.03_14.59.44].jpg
+    - 161
+    - '2017-05-05 09:18:44.841735'
+    - '2017-05-05 09:18:44.841735'
+  - - 109
+    - http://tontonanime.com/gambar/[2017.05.03_06.19.11].jpg
+    - 162
+    - '2017-05-05 09:18:45.306593'
+    - '2017-05-05 09:18:45.306593'
+  - - 110
+    - http://tontonanime.com/gambar/[2017.05.02_23.20.03].jpg
+    - 163
+    - '2017-05-05 09:18:45.750572'
+    - '2017-05-05 09:18:45.750572'
+  - - 111
+    - http://tontonanime.com/gambar/[2017.05.02_08.25.10].jpg
+    - 164
+    - '2017-05-05 09:18:46.148556'
+    - '2017-05-05 09:18:46.148556'
+  - - 112
+    - http://tontonanime.com/gambar/souryo5.png
+    - 165
+    - '2017-05-05 09:18:46.579744'
+    - '2017-05-05 09:18:46.579744'
+  - - 113
+    - http://tontonanime.com/gambar/[2017.05.01_13.34.40].jpg
+    - 166
+    - '2017-05-05 09:18:46.965521'
+    - '2017-05-05 09:18:46.965521'
+  - - 114
+    - http://tontonanime.com/gambar/[2017.05.01_06.03.25].jpg
+    - 
+    - '2017-05-05 09:18:47.211368'
+    - '2017-05-05 09:18:47.211368'
+  - - 115
+    - http://tontonanime.com/gambar/[2017.04.30_06.09.01].jpg
+    - 167
+    - '2017-05-05 09:18:47.628236'
+    - '2017-05-05 09:18:47.628236'
+  - - 116
+    - http://tontonanime.com/gambar/blue5.png
+    - 168
+    - '2017-05-05 09:18:48.005537'
+    - '2017-05-05 09:18:48.005537'
+  - - 117
+    - http://tontonanime.com/gambar/sin3.png
+    - 169
+    - '2017-05-05 09:18:48.408748'
+    - '2017-05-05 09:18:48.408748'
+  - - 118
+    - http://tontonanime.com/gambar/[2017.04.29_02.27.14].jpg
+    - 170
+    - '2017-05-05 09:18:48.872343'
+    - '2017-05-05 09:18:48.872343'
+  - - 119
+    - http://tontonanime.com/gambar/hinako4.png
+    - 171
+    - '2017-05-05 09:18:49.351103'
+    - '2017-05-05 09:18:49.351103'
+  - - 120
+    - http://tontonanime.com/gambar/[2017.04.28_20.44.47].jpg
+    - 172
+    - '2017-05-05 09:18:49.769220'
+    - '2017-05-05 09:18:49.769220'
+  - - 121
+    - http://tontonanime.com/gambar/[2017.04.28_05.11.41].jpg
+    - 173
+    - '2017-05-05 09:18:50.217778'
+    - '2017-05-05 09:18:50.217778'
+  - - 122
+    - http://tontonanime.com/gambar/tsuki4.png
+    - 174
+    - '2017-05-05 09:18:50.639294'
+    - '2017-05-05 09:18:50.639294'
+
+---
+tonans:
+  columns:
+  - id
+  - title
+  - sinop
+  - small
+  - medium
+  - created_at
+  - updated_at
+  - slug
+  records: 
+  - - 158
+    - Clockwork Planet episode 5 Subtitle Indonesia
+    - Naoto merupakan siswa SMA yang putus sekolah dan merupakan ahli jam amatir yang
+      sebetulnya terbilang berbakat, walaupun ia tidak mampu memerbaiki sebuah jam,
+      akan tetapi dengan kenekatannya dia mampu memerbaiki seorang gadis yang merupakan
+      mesin jam mutakhir, automaton yang jatuh dari atap rumahnya yang di mana memiliki
+      kerumitan mesin yang jauh lebih tinggi untuk diperbaiki, ini menunjukkan kalau
+      Naoto bukanlah ahli jam sembarangan dan bukan tidak mungkin Naoto akan menjadi
+      pahlawan yang bisa memerbaiki planet mesin jam!
+    - http://tontonanime.com/?aWQ9MTM3Mzg= || http://tontonanime.com/?aWQ9MTM3MzY=
+      || http://tontonanime.com/?aWQ9MTM3Mzc= || http://tontonanime.com/?aWQ9MTM3NDY=
+    - http://tontonanime.com/?aWQ9MTM3Mzk= || http://tontonanime.com/?aWQ9MTM3NDE=
+      || http://tontonanime.com/?aWQ9MTM3NDA= || http://tontonanime.com/?aWQ9MTM3NDc=
+    - '2017-05-05 09:18:42.566012'
+    - '2017-05-05 09:18:42.566012'
+    - clockwork-planet-episode-5-subtitle-indonesia
+  - - 159
+    - Tsuki ga Kirei episode 5 Subtitle Indonesia
+    - Kotaru Azumi dan Akane Mizuno kini menginjak kelas 3 SMP, mereka juga akan menjadi
+      teman sekelas untuk yang pertama kalinya. Hubungan yang terjalin keduanya dengan
+      teman-teman kelas mereka membuat keduanya terus berkembang. Namun, dilain sisi
+      mereka merasa khawatir dengan perubahan pada diri masing-masing.
+    - http://tontonanime.com/?aWQ9MTM3MTg= || http://tontonanime.com/?aWQ9MTM3MTY=
+      || http://tontonanime.com/?aWQ9MTM3MTc= || http://tontonanime.com/?aWQ9MTM3MjI=
+    - http://tontonanime.com/?aWQ9MTM3MjE= || http://www.datafilehost.com/d/d841eb96
+      || http://tontonanime.com/?aWQ9MTM3MjA= || http://tontonanime.com/?aWQ9MTM3MjM=
+    - '2017-05-05 09:18:43.181471'
+    - '2017-05-05 09:18:43.181471'
+    - tsuki-ga-kirei-episode-5-subtitle-indonesia
+  - - 160
+    - Busou Shoujo Machiavellianism episode 5 Subtitle Indonesia
+    - Nomura Fudou, anak laki-laki yang baru saja pindah ke sekolah di mana para murid
+      perempuan membawa senjata dan memiliki kuasa penuh terhadap murid laki-laki.
+      Tak lama setelah kepindahaanya, Nomura menjadi target dari Onigawara Rin, salah
+      satu anggota dari “Lima Pedang Penguasa” yang memerintah sekolah. Agar dapat
+      menjalani kehidupan sekolah dengan bebas, Nomura harus mengalahkan Lima Pedang
+      Penguasa.
+    - http://tontonanime.com/?aWQ9MTM3MTI= || http://tontonanime.com/?aWQ9MTM3MTQ=
+      || http://tontonanime.com/?aWQ9MTM3MDY= || http://tontonanime.com/?aWQ9MTM3MTE=
+    - http://tontonanime.com/?aWQ9MTM3MDk= || http://tontonanime.com/?aWQ9MTM3MTM=
+      || http://tontonanime.com/?aWQ9MTM3MDU= || http://tontonanime.com/?aWQ9MTM3MDg=
+    - '2017-05-05 09:18:43.610830'
+    - '2017-05-05 09:18:43.610830'
+    - busou-shoujo-machiavellianism-episode-5-subtitle-indonesia
+  - - 161
+    - Frame Arms Girl episode 5 Subtitle Indonesia
+    - Kisah dimulai ketika Ao membuka sebuah paket yang ada di depan pintu rumahnya.
+      Paket tersebut berisi Gourai, robot kecil Frame Arms Girl yang dapat digerakkan
+      secara bebas. Gourai adalah prototipe yang baru dikembangkan. Frame Arms Girl
+      dilengkapi dengan “Artificial Self” yang memberikannya kepribadian. Fitur tersebut
+      telah aktif, Gourai pun mulai mengumpulkan berbagai data dan mulai hidup dengan
+      Ao yang sama sekali tidak tahu mengenai Frame Arms Girls.
+    - http://tontonanime.com/?aWQ9MTM3MDA= || http://tontonanime.com/?aWQ9MTM2OTk=
+      || http://tontonanime.com/?aWQ9MTM2OTc= || http://tontonanime.com/?aWQ9MTM2OTQ=
+    - http://tontonanime.com/?aWQ9MTM3MDQ= || http://tontonanime.com/?aWQ9MTM3MDM=
+      || http://tontonanime.com/?aWQ9MTM2OTU= || http://tontonanime.com/?aWQ9MTM3MDI=
+    - '2017-05-05 09:18:44.605450'
+    - '2017-05-05 09:18:44.605450'
+    - frame-arms-girl-episode-5-subtitle-indonesia
+  - - 162
+    - SukaSuka episode 4 Subtitle Indonesia
+    - Bercerita mengenai dunia dimana manusia sudah punah selama 500 tahun di tangan
+      para “Beasts”. Makhluk tersebut mengancam siapapun, bahkan di angkasa dimana
+      para bangsa yang selamat hidup di pulau-pulau angkasa. Hanya sekelompok wanita
+      muda, the Leprechauns, yang menggunakan senjata kuno yang dapat mengalahkan
+      mereka. Tiba-tiba, seorang pria yang telah kehilangan segalanya 500 tahun lalu
+      masuk ke dalam hidup para Leprechauns, manusia pria terakhir terbangun dari
+      tidurnya di dalam es.
+    - http://tontonanime.com/?aWQ9MTM2OTE= || http://tontonanime.com/?aWQ9MTM2OTA=
+      || http://tontonanime.com/?aWQ9MTM2OTI= || http://tontonanime.com/?aWQ9MTM2ODM=
+    - http://tontonanime.com/?aWQ9MTM2ODc= || http://tontonanime.com/?aWQ9MTM2ODY=
+      || http://tontonanime.com/?aWQ9MTM2OTM= || http://tontonanime.com/?aWQ9MTM2ODI=
+    - '2017-05-05 09:18:45.075575'
+    - '2017-05-05 09:18:45.075575'
+    - sukasuka-episode-4-subtitle-indonesia
+  - - 163
+    - Rokudenashi Majutsu Koushi to Akashic Records episode 5 Subtitle Indonesia
+    - Gleen sebagai protagonis yang adalah seorang guru paruh waktu di sekolah sihir.
+      Guren adalah tipe guru yang akan menuliskan “belajar sendiri” di papan tulis
+      dan kemudian menggunakan jam pelajaran untuk tidur siang. Salah seorang muridnya,
+      Sistina, menjadi marah dan menantangnya berduel, dan tumben protagonisnya kalah.
+      Namun bila ada insiden yang mengancam sekolah, Guren dapat menunjukan dedikasi
+      kuatnya untuk melindungi anak muridnya.
+    - http://tontonanime.com/?aWQ9MTM2Nzg= || http://tontonanime.com/?aWQ9MTM2Nzc=
+      || http://tontonanime.com/?aWQ9MTM2ODE= || http://tontonanime.com/?aWQ9MTM2NzY=
+    - http://tontonanime.com/?aWQ9MTM2NzM= || http://tontonanime.com/?aWQ9MTM2NzQ=
+      || http://tontonanime.com/?aWQ9MTM2Nzk= || http://tontonanime.com/?aWQ9MTM2ODA=
+    - '2017-05-05 09:18:45.540346'
+    - '2017-05-05 09:18:45.540346'
+    - rokudenashi-majutsu-koushi-to-akashic-records-episode-5-subtitle-indonesia
+  - - 164
+    - Zero kara Hajimeru Mahou no Sho episode 4 Subtitle Indonesia
+    - Zero adalah seorang penyihir yang tak peduli dengan keadaan dunia. Sementara
+      mercenary adalah manusia setengah hewan yang ingin menjadi manusia seutuhnya.
+      Penyihir adalah seorang yang menggunakan sihir dalam kehidupannya, namun pada
+      era ini tidak ada yang tahu tentang seni dan ilmu sihir. Zero memulai perjalanan
+      bersama dengan mercenary untuk mencari “The Book of Zero”, sebuah buku ajaib
+      yang didalamnya tersimpan kekuatan yang dapat menghancurkan dunia.
+    - http://tontonanime.com/?aWQ9MTM2Njg= || http://tontonanime.com/?aWQ9MTM2Njc=
+      || http://tontonanime.com/?aWQ9MTM2Njk= || http://tontonanime.com/?aWQ9MTM2NjA=
+    - http://tontonanime.com/?aWQ9MTM2NjQ= || http://tontonanime.com/?aWQ9MTM2NjM=
+      || http://tontonanime.com/?aWQ9MTM2NzA= || http://tontonanime.com/?aWQ9MTM2NTk=
+    - '2017-05-05 09:18:45.951764'
+    - '2017-05-05 09:18:45.951764'
+    - zero-kara-hajimeru-mahou-no-sho-episode-4-subtitle-indonesia
+  - - 165
+    - Souryo to Majiwaru Shikiyoku no Yoru ni episode 5 v2 Subtitle Indonesia
+    - "Reuni Kujo dengan teman sekelas perempuan lamanya. Dia mewarisi kuil orangtuanya
+      dan menjadi seorang biksu. Tapi, setelah mereka berdua mabuk, mereka melakukan
+      hal yang tak sepantasnya.\r\nIntinya cerita si biksu mesum."
+    - http://tontonanime.com/?aWQ9MTM2NTg= || http://tontonanime.com/?aWQ9MTM2NTY=
+      || http://tontonanime.com/?aWQ9MTM2NTc= || http://tontonanime.com/?aWQ9MTM2NTU=
+    - ''
+    - '2017-05-05 09:18:46.346269'
+    - '2017-05-05 09:18:46.346269'
+    - souryo-to-majiwaru-shikiyoku-no-yoru-ni-episode-5-v2-subtitle-indonesia
+  - - 166
+    - Eromanga sensei episode 4 Subtitle Indonesia
+    - Izumi Masamune seorang siswa SMA dan juga seorang penulis light novel. Dia menulis
+      novel bersama seorang ilustrator dengan nama pena “Ero Manga-sensei” yang mahir
+      dalam membuat gambar erotis yang sangat menggoda. Meskipun Masamune mengarang
+      novel bersama Ero Manga-sensei, namun dia belum pernah dan enggan bertemu dengan
+      ilustratornya tersebut karena menganggap Ero Manga-sensei hanyalah seorang otaku
+      yang menjijikkan. Di rumah Masamune tinggal bersama Izumi Sagiri, adik perempuannya
+      yang seorang hikikomori. Suatu hari, Masamune terkejut melihat Sagiri menampakkan
+      diri dan menyapanya setelah setahun mengurung diri di kamar. Yang lebih mengejutkan
+      lagi ternyata ilustrator Ero Manga-sensei yang selama ini bekerja bersamanya
+      adalah adiknya sendiri. Cerita semakin rumit ketika keduanya harus berhadapan
+      dengan mangaka cantik pengarang manga shoujo populer rival mereka.
+    - http://tontonanime.com/?aWQ9MTM2NTE= || http://tontonanime.com/?aWQ9MTM2NTM=
+      || http://tontonanime.com/?aWQ9MTM2NTI= || http://tontonanime.com/?aWQ9MTM2NDI=
+    - http://tontonanime.com/?aWQ9MTM2NDY= || http://tontonanime.com/?aWQ9MTM2NTA=
+      || http://tontonanime.com/?aWQ9MTM2NDE= || http://tontonanime.com/?aWQ9MTM2NDQ=
+    - '2017-05-05 09:18:46.768049'
+    - '2017-05-05 09:18:46.768049'
+    - eromanga-sensei-episode-4-subtitle-indonesia
+  - - 167
+    - Gin no Guardian episode 5 Subtitle Indonesia
+    - Lu Shuiyin mungkin miskin, tapi dia adalah pemain terbaik dalam game online.
+      Tidak ada orang yang mengetahi kebenaran ini selain teman kelasnya, Lu Lian.
+      Suatu hari Shuiyin menerima perangkat mobile misterius dari Lu Lian. Namun,
+      tak lama setelah itu Lu Lian diculik sebelum menjelaskan perangkat tersebut.
+      Shuiyin pun segera mencari cara untuk menyelamatkannya, dan tanpa sengaja dia
+      mengaktifkan perangkatnya yang membuatnya dapat masuk ke dalam permainan dunia
+      virtual.
+    - http://tontonanime.com/?aWQ9MTM2MjY= || http://tontonanime.com/?aWQ9MTM2MjU=
+      || http://tontonanime.com/?aWQ9MTM2Mjc= || http://tontonanime.com/?aWQ9MTM2MjE=
+    - http://tontonanime.com/?aWQ9MTM2MjI= || http://tontonanime.com/?aWQ9MTM2MTk=
+      || http://tontonanime.com/?aWQ9MTM2Mjg= || http://tontonanime.com/?aWQ9MTM2MjA=
+    - '2017-05-05 09:18:47.389082'
+    - '2017-05-05 09:18:47.389082'
+    - gin-no-guardian-episode-5-subtitle-indonesia
+  - - 168
+    - Granblue Fantasy The Animation episode 5 Subtitle Indonesia
+    - Dunia Langit, dunia yang memiliki banyak pulau yang melayang di langit. Zank
+      Tinzel adalah salah satu pulau misterius yang ada di Dunia Langit. Di pulau
+      tersebut, hidup seorang anak laki-laki bernama Gran bersama dengan seekor naga
+      bernama Vyrn. Suatu hari mereka bertemu dengan Lyria, gadis cantik yang melarikan
+      diri dari Kerajaan Eleste yang memiliki kekuatan militer yang kuat dan ingin
+      menguasai Dunia Langit.
+    - http://tontonanime.com/?aWQ9MTM2MDk= || http://tontonanime.com/?aWQ9MTM2MDc=
+      || http://tontonanime.com/?aWQ9MTM2MDg= || http://tontonanime.com/?aWQ9MTM2MTU=
+    - http://tontonanime.com/?aWQ9MTM2MTQ= || http://tontonanime.com/?aWQ9MTM2MTI=
+      || http://tontonanime.com/?aWQ9MTM2MTM= || http://tontonanime.com/?aWQ9MTM2MTY=
+    - '2017-05-05 09:18:47.810870'
+    - '2017-05-05 09:18:47.810870'
+    - granblue-fantasy-the-animation-episode-5-subtitle-indonesia
+  - - 169
+    - Sin Nanatsu no Taizai episode 3 Subtitle Indonesia
+    - Kesombongan, Iri hati, Amarah, Kemalasan, Keserakahan, Kerakusan, dan Nafsu
+      adalah tujuh dosa besar manusia yang mematikan. Kisah fantasi setan cantik perwujudan
+      “Tujuh Dosa Mematikan” pun dimulai.
+    - http://tontonanime.com/?aWQ9MTM1OTg= || http://tontonanime.com/?aWQ9MTM1OTY=
+      || http://tontonanime.com/?aWQ9MTM1OTc= || http://tontonanime.com/?aWQ9MTM1OTM=
+    - http://tontonanime.com/?aWQ9MTM2MDM= || http://tontonanime.com/?aWQ9MTM2MDI=
+      || http://tontonanime.com/?aWQ9MTM2MDQ= || http://tontonanime.com/?aWQ9MTM1OTk=
+    - '2017-05-05 09:18:48.197692'
+    - '2017-05-05 09:18:48.197692'
+    - sin-nanatsu-no-taizai-episode-3-subtitle-indonesia
+  - - 170
+    - Sword Oratoria episode 3 Subtitle Indonesia
+    - Menceritakan tentang sang Sword Princess, Aiz Wallenstein. Pada sebuah ekspedisi
+      ke dalam “Dungeon”, sebuah labirin raksasa yang yang bertempat di kota Orario;
+      Grup Aiz berhasil mencapai tingkat 50 dari Dungeon dan terus melangkah maju
+      untuk menghadapi kegelapan tempat itu. Dia lalu berhasil menyelamatkan seorang
+      anak dari serangan Minotaur, namun sang anak lari sebelum Aiz bisa berkenalan
+      dengannya.
+    - http://tontonanime.com/?aWQ9MTM1OTA= || http://tontonanime.com/?aWQ9MTM1OTE=
+      || http://tontonanime.com/?aWQ9MTM1OTI= || http://tontonanime.com/?aWQ9MTM1ODM=
+    - http://tontonanime.com/?aWQ9MTM1ODc= || http://tontonanime.com/?aWQ9MTM1ODY=
+      || http://tontonanime.com/?aWQ9MTM1ODI= || http://tontonanime.com/?aWQ9MTM1ODU=
+    - '2017-05-05 09:18:48.610901'
+    - '2017-05-05 09:18:48.610901'
+    - sword-oratoria-episode-3-subtitle-indonesia
+  - - 171
+    - Hinako Note episode 4 Subtitle Indonesia
+    - Hinako gadis yang tak pandai berbicara. Gadis yang tinggal di daerah pedesaan
+      ini ingin meningkatkan kemampuan bicaranya agar dapat berkomunikasi dengan banyak
+      orang dengan bebas. Karena itu, ia pindah sekolah ke Tokyo dan berencana untuk
+      menjadi anggota klub teater. Namun, ketika tiba di kos barunya, ternyata kosnya
+      adalah toko buku bekas yang ditinggali oleh seorang gadis yang memakan buku.
+    - http://tontonanime.com/?aWQ9MTM1ODA= || http://tontonanime.com/?aWQ9MTM1NzM=
+      || http://tontonanime.com/?aWQ9MTM1NzQ= || http://tontonanime.com/?aWQ9MTM1NzA=
+    - http://tontonanime.com/?aWQ9MTM1ODE= || http://tontonanime.com/?aWQ9MTM1Nzg=
+      || http://tontonanime.com/?aWQ9MTM1Nzk= || http://tontonanime.com/?aWQ9MTM1NzU=
+    - '2017-05-05 09:18:49.100921'
+    - '2017-05-05 09:18:49.100921'
+    - hinako-note-episode-4-subtitle-indonesia
+  - - 172
+    - Saenai Heroine no Sodatekata S2 episode 3 Subtitle Indonesia
+    - Musim kedua dari Saenai Heroine no Sodatekata, yang menceritakan perjuangan
+      Aki Tomoya bersama teman-temannya untuk membuat game galge terbaik. Aki Tomoya
+      adalah seorang otaku yang memiliki obsesi untuk membuat sebuah game galge. Untuk
+      melakukannya, dia membutuhkan bantuan dari teman-temannya. Dia telah berhasil
+      mengajak teman masa kecilnya, Sawamura Spencer Eriri, sebagai ilustrator dan
+      Kasumigaoka Utaha sebagai penulis naskah. Dengan kelompok yang berisikan orang-orang
+      hebat, ia semakin berniat untuk membuat game yang menggambarkan pertemuannya
+      dengan seorang gadis cantik bernama Katou Megumi, yang berperan sebagai tokoh
+      wanita utama dalam gamenya.
+    - http://tontonanime.com/?aWQ9MTM1Njc= || http://tontonanime.com/?aWQ9MTM1NjY=
+      || http://tontonanime.com/?aWQ9MTM1Njk= || http://tontonanime.com/?aWQ9MTM1NTk=
+    - http://tontonanime.com/?aWQ9MTM1NjM= || http://tontonanime.com/?aWQ9MTM1NjI=
+      || http://tontonanime.com/?aWQ9MTM1Njg= || http://tontonanime.com/?aWQ9MTM1NTg=
+    - '2017-05-05 09:18:49.517625'
+    - '2017-05-05 09:18:49.517625'
+    - saenai-heroine-no-sodatekata-s2-episode-3-subtitle-indonesia
+  - - 173
+    - Clockwork Planet episode 4 Subtitle Indonesia
+    - Naoto merupakan siswa SMA yang putus sekolah dan merupakan ahli jam amatir yang
+      sebetulnya terbilang berbakat, walaupun ia tidak mampu memerbaiki sebuah jam,
+      akan tetapi dengan kenekatannya dia mampu memerbaiki seorang gadis yang merupakan
+      mesin jam mutakhir, automaton yang jatuh dari atap rumahnya yang di mana memiliki
+      kerumitan mesin yang jauh lebih tinggi untuk diperbaiki, ini menunjukkan kalau
+      Naoto bukanlah ahli jam sembarangan dan bukan tidak mungkin Naoto akan menjadi
+      pahlawan yang bisa memerbaiki planet mesin jam!
+    - http://tontonanime.com/?aWQ9MTM1NTc= || http://tontonanime.com/?aWQ9MTM1NTY=
+      || http://tontonanime.com/?aWQ9MTM1NTM= || http://tontonanime.com/?aWQ9MTM1NTU=
+    - http://tontonanime.com/?aWQ9MTM1NTI= || http://tontonanime.com/?aWQ9MTM1NTE=
+      || http://tontonanime.com/?aWQ9MTM1NDg= || http://tontonanime.com/?aWQ9MTM1NTA=
+    - '2017-05-05 09:18:49.957816'
+    - '2017-05-05 09:18:49.957816'
+    - clockwork-planet-episode-4-subtitle-indonesia
+  - - 174
+    - Tsuki ga Kirei episode 4 Subtitle Indonesia
+    - Kotaru Azumi dan Akane Mizuno kini menginjak kelas 3 SMP, mereka juga akan menjadi
+      teman sekelas untuk yang pertama kalinya. Hubungan yang terjalin keduanya dengan
+      teman-teman kelas mereka membuat keduanya terus berkembang. Namun, dilain sisi
+      mereka merasa khawatir dengan perubahan pada diri masing-masing.
+    - http://tontonanime.com/?aWQ9MTM1NDE= || http://tontonanime.com/?aWQ9MTM1Mzk=
+      || http://tontonanime.com/?aWQ9MTM1NDA= || http://tontonanime.com/?aWQ9MTM1MzY=
+    - http://tontonanime.com/?aWQ9MTM1NDc= || http://tontonanime.com/?aWQ9MTM1NDU=
+      || http://tontonanime.com/?aWQ9MTM1NDY= || http://tontonanime.com/?aWQ9MTM1NDI=
+    - '2017-05-05 09:18:50.386847'
+    - '2017-05-05 09:18:50.386847'
+    - tsuki-ga-kirei-episode-4-subtitle-indonesia
+
+---
+vimages:
+  columns:
+  - id
+  - url
+  - movieu_id
+  - created_at
+  - updated_at
+  records: 
+  - - 45
+    - http://www.movieu.net/wp-content/uploads/2017/04/Boruto-Naruto-Next-Generations-Episode-04-Subtitle-Indonesia.jpg
+    - 61
+    - '2017-04-26 13:53:30.212065'
+    - '2017-04-26 13:53:30.212065'
+  - - 46
+    - http://www.movieu.net/wp-content/uploads/2017/04/Fukumenkei-Noise-Episode-03-Subtitle-Indonesia.jpg
+    - 62
+    - '2017-04-26 13:53:30.742195'
+    - '2017-04-26 13:53:30.742195'
+  - - 47
+    - http://www.movieu.net/wp-content/uploads/2017/04/Rokudenashi-Majutsu-Koushi-to-Akashic-Records-Episode-04-Subtitle-Indonesia.jpg
+    - 63
+    - '2017-04-26 13:53:31.156933'
+    - '2017-04-26 13:53:31.156933'
+  - - 48
+    - http://www.movieu.net/wp-content/uploads/2017/04/Ao-no-Exorcist-Kyoto-Fujouou-hen-OVA-Subtitle-Indonesia.jpg
+    - 64
+    - '2017-04-26 13:53:31.640639'
+    - '2017-04-26 13:53:31.640639'
+  - - 49
+    - http://www.movieu.net/wp-content/uploads/2017/04/Zero-kara-Hajimeru-Mahou-no-Sho-Episode-03-Subtitle-Indonesia.jpg
+    - 65
+    - '2017-04-26 13:53:32.047515'
+    - '2017-04-26 13:53:32.047515'
+  - - 50
+    - http://www.movieu.net/wp-content/uploads/2017/04/Frame-Arms-Girl-Episode-04-Subtitle-Indonesia.jpg
+    - 66
+    - '2017-04-26 13:53:32.483595'
+    - '2017-04-26 13:53:32.483595'
+  - - 51
+    - http://www.movieu.net/wp-content/uploads/2017/04/Tsugumomo-Episode-04-Subtitle-Indonesia.jpg
+    - 67
+    - '2017-04-26 13:53:32.878166'
+    - '2017-04-26 13:53:32.878166'
+  - - 52
+    - http://www.movieu.net/wp-content/uploads/2017/04/Monster-Hunter-Stories-Ride-On-Episode-29-Subtitle-Indonesia.jpg
+    - 68
+    - '2017-04-26 13:53:33.252007'
+    - '2017-04-26 13:53:33.252007'
+  - - 53
+    - http://www.movieu.net/wp-content/uploads/2017/04/Tiger-Mask-W-Episode-28-Subtitle-Indonesia.jpg
+    - 69
+    - '2017-04-26 13:53:33.665049'
+    - '2017-04-26 13:53:33.665049'
+  - - 54
+    - http://www.movieu.net/wp-content/uploads/2017/04/One-Piece-Episode-785-Subtitle-Indonesia.jpg
+    - 70
+    - '2017-04-26 13:53:34.086540'
+    - '2017-04-26 13:53:34.086540'
+  - - 55
+    - http://www.movieu.net/wp-content/uploads/2017/04/Dragon-Ball-Super-Episode-87-Subtitle-Indonesia.jpg
+    - 71
+    - '2017-04-26 13:53:34.463668'
+    - '2017-04-26 13:53:34.463668'
+  - - 56
+    - http://www.movieu.net/wp-content/uploads/2017/04/Re-Creators-Episode-03-Subtitle-Indonesia.jpg
+    - 72
+    - '2017-04-26 13:53:34.846950'
+    - '2017-04-26 13:53:34.846950'
+  - - 57
+    - http://www.movieu.net/wp-content/uploads/2017/04/Eromanga-sensei-Episode-03-Subtitle-Indonesia.jpg
+    - 73
+    - '2017-04-26 13:53:35.229928'
+    - '2017-04-26 13:53:35.229928'
+  - - 58
+    - http://www.movieu.net/wp-content/uploads/2017/04/Granblue-Fantasy-The-Animation-Episode-04-Subtitle-Indonesia.jpg
+    - 74
+    - '2017-04-26 13:53:35.670292'
+    - '2017-04-26 13:53:35.670292'
+  - - 59
+    - http://www.movieu.net/wp-content/uploads/2017/04/Shingeki-no-Kyojin-Season-2-Episode-04-Subtitle-Indonesia.jpg
+    - 75
+    - '2017-04-26 13:53:36.081573'
+    - '2017-04-26 13:53:36.081573'
+  - - 60
+    - http://www.movieu.net/wp-content/uploads/2017/05/Clockwork-Planet-Episode-05-Subtitle-Indonesia.jpg
+    - 76
+    - '2017-05-05 09:19:07.261326'
+    - '2017-05-05 09:19:07.261326'
+  - - 61
+    - http://www.movieu.net/wp-content/uploads/2017/05/Renai-Boukun-Episode-05-Subtitle-Indonesia.jpg
+    - 77
+    - '2017-05-05 09:19:07.687277'
+    - '2017-05-05 09:19:07.687277'
+  - - 62
+    - http://www.movieu.net/wp-content/uploads/2017/05/Saekano-Season-2-Episode-04-Subtitle-Indonesia.jpg
+    - 78
+    - '2017-05-05 09:19:08.058715'
+    - '2017-05-05 09:19:08.058715'
+  - - 63
+    - http://www.movieu.net/wp-content/uploads/2017/05/Tsugumomo-Episode-06-Subtitle-Indonesia.jpg
+    - 79
+    - '2017-05-05 09:19:08.463093'
+    - '2017-05-05 09:19:08.463093'
+  - - 64
+    - http://www.movieu.net/wp-content/uploads/2017/05/Busou-Shoujo-Machiavellianism-Episode-05-Subtitle-Indonesia.jpg
+    - 80
+    - '2017-05-05 09:19:08.843568'
+    - '2017-05-05 09:19:08.843568'
+  - - 65
+    - http://www.movieu.net/wp-content/uploads/2017/05/Sagrada-Reset-Episode-05-Subtitle-Indonesia.jpg
+    - 81
+    - '2017-05-05 09:19:09.201123'
+    - '2017-05-05 09:19:09.201123'
+  - - 66
+    - http://www.movieu.net/wp-content/uploads/2017/05/Sakura-Quest-Episode-05-Subtitle-Indonesia.jpg
+    - 82
+    - '2017-05-05 09:19:09.576290'
+    - '2017-05-05 09:19:09.576290'
+  - - 67
+    - http://www.movieu.net/wp-content/uploads/2017/05/Boruto-Naruto-Next-Generations-Episode-05-Subtitle-Indonesia.jpg
+    - 83
+    - '2017-05-05 09:19:09.933895'
+    - '2017-05-05 09:19:09.933895'
+  - - 68
+    - http://www.movieu.net/wp-content/uploads/2017/05/Oushitsu-Kyoushi-Haine-Episode-05-Subtitle-Indonesia.jpg
+    - 84
+    - '2017-05-05 09:19:10.312597'
+    - '2017-05-05 09:19:10.312597'
+  - - 69
+    - http://www.movieu.net/wp-content/uploads/2017/05/ID-0-Episode-04-Subtitle-Indonesia.jpg
+    - 85
+    - '2017-05-05 09:19:10.674127'
+    - '2017-05-05 09:19:10.674127'
+  - - 70
+    - http://www.movieu.net/wp-content/uploads/2017/05/Fukumenkei-Noise-Episode-04-Subtitle-Indonesia.jpg
+    - 86
+    - '2017-05-05 09:19:11.056263'
+    - '2017-05-05 09:19:11.056263'
+  - - 71
+    - http://www.movieu.net/wp-content/uploads/2017/05/Rokudenashi-Majutsu-Koushi-to-Akashic-Records-Episode-05-Subtitle-Indonesia.jpg
+    - 87
+    - '2017-05-05 09:19:11.399480'
+    - '2017-05-05 09:19:11.399480'
+  - - 72
+    - http://www.movieu.net/wp-content/uploads/2017/05/Frame-Arms-Girl-Episode-05-Subtitle-Indonesia.jpg
+    - 88
+    - '2017-05-05 09:19:11.824907'
+    - '2017-05-05 09:19:11.824907'
+  - - 73
+    - http://www.movieu.net/wp-content/uploads/2017/05/Zero-kara-Hajimeru-Mahou-no-Sho-Episode-04-Subtitle-Indonesia.jpg
+    - 89
+    - '2017-05-05 09:19:12.207953'
+    - '2017-05-05 09:19:12.207953'
+  - - 74
+    - http://www.movieu.net/wp-content/uploads/2017/05/Tsugumomo-Episode-05-Subtitle-Indonesia.jpg
+    - 90
+    - '2017-05-05 09:19:12.589654'
+    - '2017-05-05 09:19:12.589654'

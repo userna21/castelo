@@ -12,142 +12,149 @@
 
 ActiveRecord::Schema.define(version: 20170505090744) do
 
-  create_table "aimages", force: :cascade do |t|
-    t.text     "url"
+  create_table "aimages", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "url",        limit: 65535
     t.integer  "awsub_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["awsub_id"], name: "index_aimages_on_awsub_id"
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.index ["awsub_id"], name: "index_aimages_on_awsub_id", using: :btree
   end
 
-  create_table "awsubs", force: :cascade do |t|
+  create_table "awsubs", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "title"
-    t.text     "sinop"
-    t.text     "asmall"
-    t.text     "amedium"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.text     "sinop",      limit: 65535
+    t.text     "asmall",     limit: 65535
+    t.text     "amedium",    limit: 65535
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
     t.string   "slug"
-    t.index ["slug"], name: "index_awsubs_on_slug", unique: true
+    t.index ["slug"], name: "index_awsubs_on_slug", unique: true, using: :btree
   end
 
-  create_table "friendly_id_slugs", force: :cascade do |t|
+  create_table "friendly_id_slugs", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "slug",                      null: false
     t.integer  "sluggable_id",              null: false
     t.string   "sluggable_type", limit: 50
     t.string   "scope"
     t.datetime "created_at"
-    t.index ["slug", "sluggable_type", "scope"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type_and_scope", unique: true
-    t.index ["slug", "sluggable_type"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type"
-    t.index ["sluggable_id"], name: "index_friendly_id_slugs_on_sluggable_id"
-    t.index ["sluggable_type"], name: "index_friendly_id_slugs_on_sluggable_type"
+    t.index ["slug", "sluggable_type", "scope"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type_and_scope", unique: true, length: { slug: 70, scope: 70 }, using: :btree
+    t.index ["slug", "sluggable_type"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type", length: { slug: 140 }, using: :btree
+    t.index ["sluggable_id"], name: "index_friendly_id_slugs_on_sluggable_id", using: :btree
+    t.index ["sluggable_type"], name: "index_friendly_id_slugs_on_sluggable_type", using: :btree
   end
 
-  create_table "limages", force: :cascade do |t|
-    t.text     "url"
+  create_table "limages", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "url",        limit: 65535
     t.integer  "same_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["same_id"], name: "index_limages_on_same_id"
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.index ["same_id"], name: "index_limages_on_same_id", using: :btree
   end
 
-  create_table "melodies", force: :cascade do |t|
+  create_table "melodies", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "mtitle"
-    t.text     "msinop"
-    t.text     "msmall"
-    t.text     "mmedium"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.text     "dstream"
+    t.text     "msinop",     limit: 65535
+    t.text     "msmall",     limit: 65535
+    t.text     "mmedium",    limit: 65535
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.text     "dstream",    limit: 65535
     t.string   "slug"
-    t.index ["slug"], name: "index_melodies_on_slug", unique: true
+    t.index ["slug"], name: "index_melodies_on_slug", unique: true, using: :btree
   end
 
-  create_table "mimages", force: :cascade do |t|
-    t.text     "url"
+  create_table "mimages", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "url",        limit: 65535
     t.integer  "melody_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["melody_id"], name: "index_mimages_on_melody_id"
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.index ["melody_id"], name: "index_mimages_on_melody_id", using: :btree
   end
 
-  create_table "movieus", force: :cascade do |t|
+  create_table "movieus", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "title"
-    t.text     "gstream"
-    t.text     "nstream"
-    t.text     "lstream"
-    t.text     "mstream"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.text     "gstream",    limit: 65535
+    t.text     "nstream",    limit: 65535
+    t.text     "lstream",    limit: 65535
+    t.text     "mstream",    limit: 65535
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
     t.string   "slug"
-    t.index ["slug"], name: "index_movieus_on_slug", unique: true
+    t.index ["slug"], name: "index_movieus_on_slug", unique: true, using: :btree
   end
 
-  create_table "oimages", force: :cascade do |t|
-    t.text     "url"
+  create_table "oimages", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "url",         limit: 65535
     t.integer  "oploverz_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
-    t.index ["oploverz_id"], name: "index_oimages_on_oploverz_id"
+    t.datetime "created_at",                null: false
+    t.datetime "updated_at",                null: false
+    t.index ["oploverz_id"], name: "index_oimages_on_oploverz_id", using: :btree
   end
 
-  create_table "oploverzs", force: :cascade do |t|
+  create_table "oploverzs", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "title"
-    t.text     "sinops"
-    t.text     "small"
-    t.text     "medium"
-    t.datetime "created_at",              null: false
-    t.datetime "updated_at",              null: false
-    t.integer  "visit_count", default: 0, null: false
+    t.text     "sinops",      limit: 65535
+    t.text     "small",       limit: 65535
+    t.text     "medium",      limit: 65535
+    t.datetime "created_at",                            null: false
+    t.datetime "updated_at",                            null: false
+    t.integer  "visit_count",               default: 0, null: false
     t.string   "slug"
-    t.index ["slug"], name: "index_oploverzs_on_slug", unique: true
+    t.index ["slug"], name: "index_oploverzs_on_slug", unique: true, using: :btree
   end
 
-  create_table "ostreams", force: :cascade do |t|
-    t.text     "link"
+  create_table "ostreams", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "link",        limit: 65535
     t.integer  "oploverz_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
-    t.index ["oploverz_id"], name: "index_ostreams_on_oploverz_id"
+    t.datetime "created_at",                null: false
+    t.datetime "updated_at",                null: false
+    t.index ["oploverz_id"], name: "index_ostreams_on_oploverz_id", using: :btree
   end
 
-  create_table "sames", force: :cascade do |t|
+  create_table "sames", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "title"
-    t.text     "lsmall1"
-    t.text     "lsmall2"
-    t.text     "lmedium1"
-    t.text     "lmedium2"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.text     "lsmall1",    limit: 65535
+    t.text     "lsmall2",    limit: 65535
+    t.text     "lmedium1",   limit: 65535
+    t.text     "lmedium2",   limit: 65535
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
     t.string   "slug"
-    t.index ["slug"], name: "index_sames_on_slug", unique: true
+    t.index ["slug"], name: "index_sames_on_slug", unique: true, using: :btree
   end
 
-  create_table "timages", force: :cascade do |t|
-    t.text     "url"
+  create_table "timages", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "url",        limit: 65535
     t.integer  "tonan_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["tonan_id"], name: "index_timages_on_tonan_id"
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.index ["tonan_id"], name: "index_timages_on_tonan_id", using: :btree
   end
 
-  create_table "tonans", force: :cascade do |t|
+  create_table "tonans", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string   "title"
-    t.text     "sinop"
-    t.text     "small"
-    t.text     "medium"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.text     "sinop",      limit: 65535
+    t.text     "small",      limit: 65535
+    t.text     "medium",     limit: 65535
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
     t.string   "slug"
-    t.index ["slug"], name: "index_tonans_on_slug", unique: true
+    t.index ["slug"], name: "index_tonans_on_slug", unique: true, using: :btree
   end
 
-  create_table "vimages", force: :cascade do |t|
-    t.text     "url"
+  create_table "vimages", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.text     "url",        limit: 65535
     t.integer  "movieu_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["movieu_id"], name: "index_vimages_on_movieu_id"
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.index ["movieu_id"], name: "index_vimages_on_movieu_id", using: :btree
   end
 
+  add_foreign_key "aimages", "awsubs"
+  add_foreign_key "limages", "sames"
+  add_foreign_key "mimages", "melodies"
+  add_foreign_key "oimages", "oploverzs"
+  add_foreign_key "ostreams", "oploverzs"
+  add_foreign_key "timages", "tonans"
+  add_foreign_key "vimages", "movieus"
 end
